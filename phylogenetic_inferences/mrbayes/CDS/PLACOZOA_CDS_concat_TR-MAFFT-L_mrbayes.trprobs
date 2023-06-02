@@ -1,0 +1,31 @@
+#NEXUS
+[ID: 0864535358]
+[This file contains the trees that were found during the MCMC
+search, sorted by posterior probability. "p" indicates the
+posterior probability of the tree whereas "P" indicates the
+cumulative posterior probability.]
+
+begin trees;
+   translate
+    1 C0_H0__MH682141,
+    2 C1_H1__NC008151,
+    3 C1_H17__LC460470,
+    4 C1_H2__LC460468,
+    5 C2_H3__NC008834,
+    6 C3_H8__NC008832,
+    7 C3_H23_MT957399,
+    8 C3_H6_Helminthope_sp,
+    9 C6_H11__LC460469,
+   10 C7_H24__MT957400,
+   11 C7_H27_Helminthope_sp,
+   12 C4_H19__LC460471,
+   13 C5_H4__NC008833,
+   14 C5_H9__LC460472,
+   15 C5_H13,
+   16 C5_H15__NC015309,
+   17 C5_H26_Helminthope_sp,
+   18 C8_H28_Rhodope_sp;
+   tree tree_1 [p = 0.872, P = 0.872] = [&W 0.871950] ((9,((12,(((16,(15,14)),(17,13)),(18,(11,10)))),(8,(7,6)))),(5,(4,(2,3))),1);
+   tree tree_2 [p = 0.070, P = 0.942] = [&W 0.070391] ((9,((12,((((16,15),14),(17,13)),(18,(11,10)))),(8,(7,6)))),(5,(4,(2,3))),1);
+   tree tree_3 [p = 0.058, P = 1.000] = [&W 0.057659] ((9,((12,(((15,(16,14)),(17,13)),(18,(11,10)))),(8,(7,6)))),(5,(4,(2,3))),1);
+end;

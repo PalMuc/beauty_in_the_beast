@@ -1,0 +1,5 @@
+[ID: 0864535358]
+run	arithmetic_mean	harmonic_mean	values_discarded
+1	-5.028425e+04	-5.036182e+04	no
+2	-5.028718e+04	-5.037846e+04	no
+all	-5.028489e+04	-5.037777e+04	no

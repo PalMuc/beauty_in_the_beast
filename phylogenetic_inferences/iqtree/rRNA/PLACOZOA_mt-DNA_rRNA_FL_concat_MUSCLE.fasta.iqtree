@@ -1,0 +1,184 @@
+IQ-TREE 2.2.0 COVID-edition built Jun  1 2022
+
+Input file name: PLACOZOA_mt-DNA_rRNA_FL_concat_MUSCLE.fasta
+Type of analysis: tree reconstruction + non-parametric bootstrap (1000 replicates)
+Random seed number: 974610
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 18 sequences with 6283 nucleotide sites
+Number of constant sites: 3831 (= 60.9741% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 3831 (= 60.9741% of all sites)
+Number of parsimony informative sites: 1449
+Number of distinct site patterns: 1967
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+I+G4
+
+Rate parameter R:
+
+  A-C: 1.0532
+  A-G: 2.4010
+  A-T: 1.1283
+  C-G: 1.8368
+  C-T: 3.3407
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.2986
+  pi(C) = 0.2038
+  pi(G) = 0.2473
+  pi(T) = 0.2503
+
+Rate matrix Q:
+
+  A   -0.8383     0.165    0.4563     0.217
+  C    0.2417    -1.233    0.3491    0.6426
+  G    0.5511    0.2877    -1.031    0.1923
+  T     0.259    0.5233      0.19   -0.9722
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.2863
+Gamma shape alpha: 0.5428
+
+ Category  Relative_rate  Proportion
+  0         0              0.2863
+  1         0.05825        0.1784
+  2         0.3909         0.1784
+  3         1.19           0.1784
+  4         3.965          0.1784
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -27576.5994 (s.e. 307.9059)
+Unconstrained log-likelihood (without tree): -33591.3815
+Number of free parameters (#branches + #model parameters): 43
+Akaike information criterion (AIC) score: 55239.1989
+Corrected Akaike information criterion (AICc) score: 55239.8054
+Bayesian information criterion (BIC) score: 55529.2598
+
+Total tree length (sum of branch lengths): 2.3543
+Sum of internal branch lengths: 0.7676 (32.6032% of tree length)
+
+WARNING: 1 near-zero internal branches (<0.0002) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'C0-H0__MH682141' is drawn at root
+Numbers in parentheses are  standard bootstrap support (%)
+
++-----------------------------------------------------------C0-H0__MH682141
+|
+|              +--C8-H28_Rhodope_sp
+|           +--| (96)
+|           |  |  +--C7-H24__MT957400
+|           |  +--| (100)
+|           |     +--C7-H27_Helminthope_sp
+|        +--| (89)
+|        |  |         +--C5-H4__NC_008833
+|        |  |      +--| (99)
+|        |  |      |  +--C5-H26_Helminthope_sp
+|        |  +------| (100)
+|        |         |  +--C5-H9__LC460472
+|        |         +--| (100)
+|        |            |  +--C5-H15__NC_015309
+|        |            +**| (100)
+|        |               +--C5-H13
+|     +--| (85)
+|     |  +--C4-H19__LC460471
+|  +--| (41)
+|  |  |    +--C3-H6_Helminthope_sp
+|  |  +----| (100)
+|  |       |  +--C3-H23_MT957399
+|  |       +--| (92)
+|  |          +--C3-H8__NC_008832
++--| (56)
+|  +-----C6-H11__LC460469
+|
+|          +-----------C2-H3__NC_008834
++----------| (100)
+           |      +--C1-H2__LC460468
+           +------| (100)
+                  |  +--C1-H1__NC_008151
+                  +--| (100)
+                     +--C1-H17__LC460470
+
+Tree in newick format:
+
+(C0-H0__MH682141:1.0099522930,(((((C8-H28_Rhodope_sp:0.0510772307,(C7-H24__MT957400:0.0226763613,C7-H27_Helminthope_sp:0.0187075109)100:0.0376508170)96:0.0135508256,((C5-H4__NC_008833:0.0009944569,C5-H26_Helminthope_sp:0.0004806584)99:0.0049600405,(C5-H9__LC460472:0.0014412573,(C5-H15__NC_015309:0.0011977373,C5-H13:0.0002384278)100:0.0000010268)100:0.0041987623)100:0.1203985758)89:0.0246336437,C4-H19__LC460471:0.0515668298)85:0.0373996623,(C3-H6_Helminthope_sp:0.0376620296,(C3-H23_MT957399:0.0248756151,C3-H8__NC_008832:0.0166799481)92:0.0128919065)100:0.0924739169)41:0.0232267198,C6-H11__LC460469:0.1087922451)56:0.0589115361,(C2-H3__NC_008834:0.2116075505,(C1-H2__LC460468:0.0120377850,(C1-H1__NC_008151:0.0139140930,C1-H17__LC460470:0.0028185527)100:0.0144572686)100:0.1269705454)100:0.1958496340);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -27576.603595
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++-----------------------------------------------------------C0-H0__MH682141
+|
+|              +--C8-H28_Rhodope_sp
+|           +--| (96)
+|           |  |  +--C7-H24__MT957400
+|           |  +--| (100)
+|           |     +--C7-H27_Helminthope_sp
+|        +--| (89)
+|        |  |         +--C5-H4__NC_008833
+|        |  |      +--| (99)
+|        |  |      |  +--C5-H26_Helminthope_sp
+|        |  +------| (100)
+|        |         |  +--C5-H9__LC460472
+|        |         +--| (100)
+|        |            |  +--C5-H15__NC_015309
+|        |            +--| (100)
+|        |               +--C5-H13
+|     +--| (85)
+|     |  +--C4-H19__LC460471
+|  +--| (41)
+|  |  |    +--C3-H6_Helminthope_sp
+|  |  +----| (100)
+|  |       |  +--C3-H23_MT957399
+|  |       +--| (92)
+|  |          +--C3-H8__NC_008832
++--| (56)
+|  +-----C6-H11__LC460469
+|
+|          +-----------C2-H3__NC_008834
++----------| (100)
+           |      +--C1-H2__LC460468
+           +------| (100)
+                  |  +--C1-H1__NC_008151
+                  +--| (100)
+                     +--C1-H17__LC460470
+
+
+Consensus tree in newick format: 
+
+(C0-H0__MH682141:1.0088175531,(((((C8-H28_Rhodope_sp:0.0510538168,(C7-H24__MT957400:0.0226690902,C7-H27_Helminthope_sp:0.0186981886)100:0.0376320997)96:0.0135584629,((C5-H4__NC_008833:0.0009939161,C5-H26_Helminthope_sp:0.0004797096)99:0.0049567772,(C5-H9__LC460472:0.0014402824,(C5-H15__NC_015309:0.0011969548,C5-H13:0.0002369877)100:0.0000020922)100:0.0041980149)100:0.1203244886)89:0.0246295114,C4-H19__LC460471:0.0515376344)85:0.0373952497,(C3-H6_Helminthope_sp:0.0376492404,(C3-H23_MT957399:0.0248679237,C3-H8__NC_008832:0.0166736662)92:0.0128884868)100:0.0924232413)41:0.0232427976,C6-H11__LC460469:0.1087180950)56:0.0598614029,(C2-H3__NC_008834:0.2115811456,(C1-H2__LC460468:0.0120522006,(C1-H1__NC_008151:0.0139124341,C1-H17__LC460470:0.0028177441)100:0.0144424085)100:0.1269000527)100:0.1949062131);
+
+TIME STAMP
+----------
+
+Date and time: Wed Apr 26 00:04:13 2023
+Total CPU time used: 79.684759 seconds (0h:1m:19s)
+Total wall-clock time used: 7.342237949 seconds (0h:0m:7s)
+

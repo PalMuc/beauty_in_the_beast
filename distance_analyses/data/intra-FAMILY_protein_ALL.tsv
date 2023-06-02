@@ -1,0 +1,40 @@
+Species1	distance	geneName	gene	avgdistance
+Cladtertiidae	0.0053	ATP6	1	0.01871
+Hoilungidae	0.0164	ATP6	1	
+Trichoplacidae	0.0344	ATP6	1	
+Cladtertiidae	0.0012	COX1	2	0.00651
+Hoilungidae	0.0089	COX1	2	
+Trichoplacidae	0.0094	COX1	2	
+Cladtertiidae	0.0388	COX2	3	0.03533
+Hoilungidae	0.0484	COX2	3	
+Trichoplacidae	0.0188	COX2	3	
+Cladtertiidae	0.0244	COX3	4	0.03793
+Hoilungidae	0.0390	COX3	4	
+Trichoplacidae	0.0504	COX3	4	
+Cladtertiidae	0.0053	CYTB	5	0.01600
+Hoilungidae	0.0255	CYTB	5	
+Trichoplacidae	0.0172	CYTB	5	
+Cladtertiidae	0.0117	NAD1	6	0.02356
+Hoilungidae	0.0327	NAD1	6	
+Trichoplacidae	0.0264	NAD1	6	
+Cladtertiidae	0.0478	NAD2	7	0.09056
+Hoilungidae	0.1122	NAD2	7	
+Trichoplacidae	0.1117	NAD2	7	
+Cladtertiidae	0.0000	NAD3	8	0.01009
+Hoilungidae	0.0181	NAD3	8	
+Trichoplacidae	0.0122	NAD3	8	
+Cladtertiidae	0.0164	NAD4	9	0.02885
+Hoilungidae	0.0268	NAD4	9	
+Trichoplacidae	0.0433	NAD4	9	
+Cladtertiidae	0.0067	NAD4L	10	0.01030
+Hoilungidae	0.0090	NAD4L	10	
+Trichoplacidae	0.0152	NAD4L	10	
+Cladtertiidae	0.0264	NAD5	11	0.04647
+Hoilungidae	0.0571	NAD5	11	
+Trichoplacidae	0.0559	NAD5	11	
+Cladtertiidae	0.0394	NAD6	12	0.12922
+Hoilungidae	0.1663	NAD6	12	
+Trichoplacidae	0.1820	NAD6	12	
+Cladtertiidae	0.0210	CONCAT	13	0.04117
+Hoilungidae	0.0502	CONCAT	13	
+Trichoplacidae	0.0523	CONCAT	13	

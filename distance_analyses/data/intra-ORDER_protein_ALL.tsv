@@ -1,0 +1,27 @@
+Species1	distance	geneName	gene	avgdistance
+Hoilungea	0.0284	ATP6	1	0.03141
+Trichoplacea	0.0344	ATP6	1	
+Hoilungea	0.0095	COX1	2	0.00945
+Trichoplacea	0.0094	COX1	2	
+Hoilungea	0.0615	COX2	3	0.04011
+Trichoplacea	0.0188	COX2	3	
+Hoilungea	0.0489	COX3	4	0.04963
+Trichoplacea	0.0504	COX3	4	
+Hoilungea	0.0263	CYTB	5	0.02173
+Trichoplacea	0.0172	CYTB	5	
+Hoilungea	0.0419	NAD1	6	0.03414
+Trichoplacea	0.0264	NAD1	6	
+Hoilungea	0.1423	NAD2	7	0.12700
+Trichoplacea	0.1117	NAD2	7	
+Hoilungea	0.0328	NAD3	8	0.02248
+Trichoplacea	0.0122	NAD3	8	
+Hoilungea	0.0365	NAD4	9	0.03989
+Trichoplacea	0.0433	NAD4	9	
+Hoilungea	0.0112	NAD4L	10	0.01318
+Trichoplacea	0.0152	NAD4L	10	
+Hoilungea	0.0789	NAD5	11	0.06737
+Trichoplacea	0.0559	NAD5	11	
+Hoilungea	0.2109	NAD6	12	0.19645
+Trichoplacea	0.1820	NAD6	12	
+Hoilungea	0.0644	CONCAT	13	0.05834
+Trichoplacea	0.0523	CONCAT	13	
