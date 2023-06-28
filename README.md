@@ -13,11 +13,12 @@ Eitel _et al._
 
 ### assembly_scripts folder ### 
 
-Contains scripts to run SPAdes assemblies of metagenomic reads.
+Contains scripts used for SPAdes assemblies of metagenomic reads.
 
 ### distance_analyses folder ### 
 
-Contains data and Rscripts used to generate plots related to genetic distance analyses.
+Contains genetic distance data and Rscripts used to generate plots related to distance analyses.
+
 
 ### phylogenetic_inferences folder ### 
 
