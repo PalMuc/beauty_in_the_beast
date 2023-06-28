@@ -9,16 +9,20 @@ This repository contains data and scripts associated with Eitel _et al._ "Beauty
 ## Included data ##
 
 
+
 ### assembly_scripts folder ### 
 
 Contains scripts used for SPAdes assemblies of metagenomic reads.
+
+
 
 ### distance_analyses folder (Figures 3, S1, S2) ### 
 
 Contains genetic distance data and Rscripts used to generate plots related to distance analyses.
 
 
-### phylogenetic_inferences folder (Figures 3, S1, S2) ### 
+
+### phylogenetic_inferences folder (Figure 1) ### 
 
 Contains input (concatenated alignments) and output files for Bayesian (mrbayes) and Maximum Likelihood (iqtree) analyses to infer phylogenetic relationships using nucleotide (CDS_nt) and amino acid (CDS_aa) sequences of the mitochondrial protein-coding genes (COX1-3, CYTB, NAD1-6, ATP6) as well as the two concatenated mitochondrial ribosomal subunits (12S, 16S).
 
