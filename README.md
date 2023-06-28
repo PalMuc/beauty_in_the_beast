@@ -41,4 +41,4 @@ Contains genetic distance data and Rscripts used to generate plots related to di
 
 ### phylogenetic_inferences folder (Figure 1) ### 
 
-Contains input (concatenated alignments) and output files for Bayesian (mrbayes) and Maximum Likelihood (iqtree) analyses to infer phylogenetic relationships using nucleotide (CDS_nt) and amino acid (CDS_aa) sequences of the mitochondrial protein-coding genes (COX1-3, CYTB, NAD1-6, ATP6) as well as the two concatenated mitochondrial ribosomal subunits (12S, 16S).
+Contains input (individual and concatenated alignments) and output files for Bayesian (mrbayes) and Maximum Likelihood (iqtree) analyses to infer phylogenetic relationships using nucleotide (CDS_nt) and amino acid (CDS_aa) sequences of the mitochondrial protein-coding genes (COX1-3, CYTB, NAD1-6, ATP6) as well as the two concatenated mitochondrial ribosomal subunits (12S, 16S).
