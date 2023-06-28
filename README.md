@@ -32,5 +32,7 @@ Eitel, M. 1,2; Osigus, H.J. 3,#; Brenzinger, B. 4 ; Wörheide, G. 1,2,5,§( XX) 
 4 Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB) – Bayerische Staatssammlung für Zoologie, München, Deutschland
 5 Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB) – Bayerische Staatssammlung für
 Paläontologie und Geologie, München, Deutschland
+
 § Present address: Hochschulbibliothek, Stiftung Tierärztliche Hochschule Hannover, Hannover, Deutschland
+
 % Corresponding author
