@@ -2,7 +2,7 @@
 
 This repository contains data and scripts for
 
-*** Beauty in the beast - Placozoan biodiversity explored through molluscan predator genomics. ***
+** Beauty in the beast - Placozoan biodiversity explored through molluscan predator genomics. **
 
 Eitel, M. <sup>1,2</sup>; Osigus, H.J. <sup>3,#</sup>; Brenzinger, B. <sup>4</sup> ; Wörheide, G. <sup>1,2,5,§</sup>.
 
