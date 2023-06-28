@@ -29,7 +29,7 @@ Paläontologie und Geologie, München, Deutschland
 
 ### assembly_scripts folder ### 
 
-Contains scripts used for SPAdes assemblies of metagenomic reads.
+Contains bash scripts used for SPAdes assemblies of metagenomic reads.
 
 
 
