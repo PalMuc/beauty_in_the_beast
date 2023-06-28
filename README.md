@@ -11,21 +11,22 @@ Eitel _et al._
 ## Included data ##
 
 
-**assembly_scripts**:
+### assembly_scripts folder ### 
 
 Contains scripts to run SPAdes assemblies of metagenomic reads.
 
-**distance_analyses**:
+### distance_analyses folder ### 
 
 Contains data and Rscripts used to generate plots related to genetic distance analyses.
 
-**phylogenetic_inferences**:
+### phylogenetic_inferences folder ### 
 
 Contains input (concatenated alignments) and output files for Bayesian (mrbayes) and Maximum Likelihood (iqtree) analyses to infer phylogenetic relationships using nucleotide (CDS_nt) and amino acid (CDS_aa) sequences of the mitochondrial protein-coding genes (COX1-3, CYTB, NAD1-6, ATP6) as well as the two concatenated mitochondrial ribosomal subunits (12S, 16S).
 
 
 
-### Full citation ###
+## Full citation ##
+
 Eitel, M. 1,2; Osigus, H.J. 3,#; Brenzinger, B. 4 ; Wörheide, G. 1,2,5,§( XX) "Beauty in the beast - Placozoan biodiversity explored through molluscan predator genomics"
 
 1 GeoBio-Center, Ludwig-Maximilians-Universität München, München, Deutschland
