@@ -1,15 +1,14 @@
 library(paletteer)
 library(ggplot2)
-distfile = "all_distances_levels_ratios_within_Uniplacotomia_lines_no-clades.tsv"
+distfile = "../data/all_distances_levels_ratios_within_Uniplacotomia_lines_no-clades.tsv"
 distdata = read.table(distfile, header=TRUE, sep="\t")
-boxplotfile = "all_distances_levels_ratios_between_Uniplacotomia_lines_boxplots_no-clades.tsv"
+boxplotfile = "../data/all_distances_levels_ratios_between_Uniplacotomia_lines_boxplots_no-clades.tsv"
 boxplotdist = read.table(boxplotfile, header=TRUE, sep="\t")
 
 levels = c("class","order","family","genus")
 genes = c("ATP6", "COX1", "COX2", "COX3", "CYTB", "NAD1", "NAD2", "NAD3", "NAD4", "NAD4L", "NAD5", "NAD6", "concat")
 
-#pdf(file="plots/all_distances_levels_ratios_within_Uniplacotomia_lines_no-clades.pdf", width=8, height=6)
-svg(file="plots/all_distances_levels_ratios_within_Uniplacotomia_lines_no-clades.svg", width=8, height=6)
+svg(file="../plots/Figure_S1.svg", width=8, height=6)
 
 palette = paletteer_d("dichromat::Categorical_12")
 

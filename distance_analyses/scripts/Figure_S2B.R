@@ -1,4 +1,4 @@
-infile = "combined-ALL_protein_NAD3.tsv"
+infile = "../data/combined-ALL_protein_NAD3.tsv"
 
 levdata = read.table(infile, header=TRUE, sep="\t")
 
@@ -10,8 +10,7 @@ distvalues = levdata[,3]
 barposition = match(levdata[,2],levels) * 3 - 3 + match(levdata[,1],phylanames)
 datagroups = split(levdata[,3], barposition)
 
-#pdf(file="plots/combined-ALL_protein_NAD3.pdf", width=8, height=6)
-svg(file="plots/combined-ALL_protein_NAD3.svg", width=8, height=6)
+svg(file="../plots/Figure_S2B.svg", width=8, height=6)
 
 par(mar=c(4,5,1,1))
 
