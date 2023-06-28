@@ -26,15 +26,15 @@ Contains input (concatenated alignments) and output files for Bayesian (mrbayes)
 
 ## Full citation ##
 
-Eitel, M. <sup>1,2; Osigus, H.J. <sup>3,#; Brenzinger, B. <sup>4 ; Wörheide, G. <sup>1,2,5,§. Beauty in the beast - Placozoan biodiversity explored through molluscan predator genomics.
+Eitel, M. <sup>1,2<sup>; Osigus, H.J. <sup>3,#<sup>; Brenzinger, B. <sup>4<sup> ; Wörheide, G. <sup>1,2,5,§<sup>. Beauty in the beast - Placozoan biodiversity explored through molluscan predator genomics.
 
-1 GeoBio-Center, Ludwig-Maximilians-Universität München, München, Deutschland
-2 Department of Earth and Environmental Sciences, Paleontology and Geobiology, Ludwig-Maximilians-Universität-München, München, Deutschland
-3 Institut für Tierökologie, Stiftung Tierärztliche Hochschule Hannover, Hannover, Deutschland
-4 Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB) – Bayerische Staatssammlung für Zoologie, München, Deutschland
-5 Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB) – Bayerische Staatssammlung für
+<sup>1<sup> GeoBio-Center, Ludwig-Maximilians-Universität München, München, Deutschland
+<sup>2<sup> Department of Earth and Environmental Sciences, Paleontology and Geobiology, Ludwig-Maximilians-Universität-München, München, Deutschland
+<sup>3<sup> Institut für Tierökologie, Stiftung Tierärztliche Hochschule Hannover, Hannover, Deutschland
+<sup>4<sup> Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB) – Bayerische Staatssammlung für Zoologie, München, Deutschland
+<sup>5<sup> Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB) – Bayerische Staatssammlung für
 Paläontologie und Geologie, München, Deutschland
 
-§ Present address: Hochschulbibliothek, Stiftung Tierärztliche Hochschule Hannover, Hannover, Deutschland
+<sup>§<sup> Present address: Hochschulbibliothek, Stiftung Tierärztliche Hochschule Hannover, Hannover, Deutschland
 
-% Corresponding author
+<sup>%<sup> Corresponding author
