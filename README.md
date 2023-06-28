@@ -26,7 +26,9 @@ Contains input (concatenated alignments) and output files for Bayesian (mrbayes)
 
 ## Full citation ##
 
-Eitel, M. <sup>1,2</sup>; Osigus, H.J. <sup>3,#</sup>; Brenzinger, B. <sup>4</sup> ; Wörheide, G. <sup>1,2,5,§</sup>. Beauty in the beast - Placozoan biodiversity explored through molluscan predator genomics.
+Beauty in the beast - Placozoan biodiversity explored through molluscan predator genomics.
+
+Eitel, M. <sup>1,2</sup>; Osigus, H.J. <sup>3,#</sup>; Brenzinger, B. <sup>4</sup> ; Wörheide, G. <sup>1,2,5,§</sup>.
 
 <sup>1</sup> GeoBio-Center, Ludwig-Maximilians-Universität München, München, Deutschland
 <sup>2</sup> Department of Earth and Environmental Sciences, Paleontology and Geobiology, Ludwig-Maximilians-Universität-München, München, Deutschland
