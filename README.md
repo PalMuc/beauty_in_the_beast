@@ -1,4 +1,4 @@
-# Beauty in the beast - Placozoan biodiversity explored through molluscan predator genomics
+# Beauty in the beast
 
 This repository contains data and scripts for
 
