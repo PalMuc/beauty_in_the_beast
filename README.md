@@ -7,9 +7,13 @@ This repository contains data and scripts for
 Eitel, M. <sup>1,2</sup>; Osigus, H.J. <sup>3,#</sup>; Brenzinger, B. <sup>4</sup> ; Wörheide, G. <sup>1,2,5,§</sup>.
 
 <sup>1</sup> GeoBio-Center, Ludwig-Maximilians-Universität München, München, Deutschland
+
 <sup>2</sup> Department of Earth and Environmental Sciences, Paleontology and Geobiology, Ludwig-Maximilians-Universität-München, München, Deutschland
+
 <sup>3</sup> Institut für Tierökologie, Stiftung Tierärztliche Hochschule Hannover, Hannover, Deutschland
+
 <sup>4</sup> Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB) – Bayerische Staatssammlung für Zoologie, München, Deutschland
+
 <sup>5</sup> Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB) – Bayerische Staatssammlung für
 Paläontologie und Geologie, München, Deutschland
 
