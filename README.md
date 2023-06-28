@@ -1,9 +1,7 @@
-# beauty_in_the_beast
+# Beauty in the beast - Placozoan biodiversity explored through molluscan predator genomics
 
 ## Description ##
-This repository contains data and scripts associated with 
-Eitel _et al._
-"Beauty in the beast - Placozoan biodiversity explored through molluscan predator genomics"
+This repository contains data and scripts associated with Eitel _et al._ "Beauty in the beast - Placozoan biodiversity explored through molluscan predator genomics"
 
 
 
@@ -15,12 +13,12 @@ Eitel _et al._
 
 Contains scripts used for SPAdes assemblies of metagenomic reads.
 
-### distance_analyses folder ### 
+### distance_analyses folder (Figures 3, S1, S2) ### 
 
 Contains genetic distance data and Rscripts used to generate plots related to distance analyses.
 
 
-### phylogenetic_inferences folder ### 
+### phylogenetic_inferences folder (Figures 3, S1, S2)### 
 
 Contains input (concatenated alignments) and output files for Bayesian (mrbayes) and Maximum Likelihood (iqtree) analyses to infer phylogenetic relationships using nucleotide (CDS_nt) and amino acid (CDS_aa) sequences of the mitochondrial protein-coding genes (COX1-3, CYTB, NAD1-6, ATP6) as well as the two concatenated mitochondrial ribosomal subunits (12S, 16S).
 
@@ -28,7 +26,7 @@ Contains input (concatenated alignments) and output files for Bayesian (mrbayes)
 
 ## Full citation ##
 
-Eitel, M. 1,2; Osigus, H.J. 3,#; Brenzinger, B. 4 ; Wörheide, G. 1,2,5,§( XX) "Beauty in the beast - Placozoan biodiversity explored through molluscan predator genomics"
+Eitel, M. <sup>1,2; Osigus, H.J. <sup>3,#; Brenzinger, B. <sup>4 ; Wörheide, G. <sup>1,2,5,§. Beauty in the beast - Placozoan biodiversity explored through molluscan predator genomics.
 
 1 GeoBio-Center, Ludwig-Maximilians-Universität München, München, Deutschland
 2 Department of Earth and Environmental Sciences, Paleontology and Geobiology, Ludwig-Maximilians-Universität-München, München, Deutschland
