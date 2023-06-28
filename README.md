@@ -1,8 +1,13 @@
 # beauty_in_the_beast
 
+## Description ##
 This repository contains data and scripts associated with 
 Eitel _et al._
 "Beauty in the beast - Placozoan biodiversity explored through molluscan predator genomics"
+
+
+
+## Included data ##
 
 
 **assembly_scripts**:
@@ -19,7 +24,7 @@ Contains input (concatenated alignments) and output files for Bayesian (mrbayes)
 
 
 ### Full citation ###
-Eitel, M. 1,2; Osigus, H.J. 3,#; Brenzinger, B. 4 ; Wörheide, G. 1,2,5,%(XX) "Beauty in the beast - Placozoan biodiversity explored through molluscan predator genomics"
+Eitel, M. 1,2; Osigus, H.J. 3,#; Brenzinger, B. 4 ; Wörheide, G. 1,2,5,§( XX) "Beauty in the beast - Placozoan biodiversity explored through molluscan predator genomics"
 
 1 GeoBio-Center, Ludwig-Maximilians-Universität München, München, Deutschland
 2 Department of Earth and Environmental Sciences, Paleontology and Geobiology, Ludwig-Maximilians-Universität-München, München, Deutschland
@@ -27,5 +32,5 @@ Eitel, M. 1,2; Osigus, H.J. 3,#; Brenzinger, B. 4 ; Wörheide, G. 1,2,5,%(XX) "B
 4 Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB) – Bayerische Staatssammlung für Zoologie, München, Deutschland
 5 Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB) – Bayerische Staatssammlung für
 Paläontologie und Geologie, München, Deutschland
-# Present address: Hochschulbibliothek, Stiftung Tierärztliche Hochschule Hannover, Hannover, Deutschland
+§ Present address: Hochschulbibliothek, Stiftung Tierärztliche Hochschule Hannover, Hannover, Deutschland
 % Corresponding author
