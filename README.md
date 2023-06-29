@@ -17,9 +17,9 @@ Eitel, M. <sup>1,2</sup>; Osigus, H.J. <sup>3,#</sup>; Brenzinger, B. <sup>4</su
 <sup>5</sup> Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB) – Bayerische Staatssammlung für
 Paläontologie und Geologie, München, Deutschland
 
-<sup>§</sup> Present address: Hochschulbibliothek, Stiftung Tierärztliche Hochschule Hannover, Hannover, Deutschland
+<sup>#</sup> Present address: Hochschulbibliothek, Stiftung Tierärztliche Hochschule Hannover, Hannover, Deutschland
 
-<sup>%</sup> Corresponding author
+<sup>§</sup> Corresponding author
 
 
 
