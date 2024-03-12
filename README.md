@@ -21,8 +21,7 @@ Paläontologie und Geologie, München, Deutschland
 
 ## Abstract ##
 
-The Placozoa, a phylum of marine animals, was previously believed to consist solely of small disc-shaped grazers that live as epibenthos of coastal waters. Recent work has shown that the placozoan diversity is larger than initially expected. The discovery that small, shell-less sea slugs belonging to the family Rhodopidae (Mollusca: Gastropoda: Heterobranchia) are placozoan predators has sparked light on a potentially new placozoan ecological niche, since these gastropods inhabit the interstitium of seafloor sediment. To infer if such predation is common and to see if placozoans regularly occur in this ecological niche, we screened publicly available metagenomic data from two Rhodopidae specimens collected from coastal sediments. Our analysis not only identified signatures of placozoan mitochondrial DNA in these sea slug samples, but also enabled the assembly of three complete and two partial mitochondrial chromosomes belonging to four different placozoan genera, extending the placozoan biodiversity. Our findings furthermore refine the molecular phylogeny of the Placozoa, corroborate the recently established taxonomic ranks in this phylum, and provide molecular support that known placozoan clades should be referred to as genera. The confirmation that some placozoans at least partially inhabit seafloor sediment has important ecological, biological, and natural history implications, which are discussed.
-
+The marine animal phylum Placozoa is characterized by a poorly explored cryptic biodiversity combined with very limited knowledge on their ecology. While placozoans are typically found as part of the epibenthos of coastal waters, known placozoan predators, namely small, shell-less sea slugs belonging to the family Rhodopidae (Mollusca: Gastropoda: Heterobranchia), inhabit the interstitium of seafloor sediment. In order to gain further insights into this predator- prey-relationship and to enlarge our understanding on placozoan ecological niches, we screened publicly available whole body metagenomic data from two rhodopid specimens collected from coastal sediments. Our analysis not only revealed signatures of three previously unknown placozoan lineages in these sea slug samples, but also enabled the assembly of three complete and two partial mitochondrial chromosomes belonging to four previously described placozoan genera, substantially extending of picture of placozoan biodiversity. Our findings furthermore refine the molecular phylogeny of the Placozoa, corroborate the recently established taxonomic ranks in this phylum, and provide molecular support that known placozoan clades should be referred to as genera. We finally discuss the main finding of our study – the presence of placozoan in the sea floor sediment interstitium – in the context of their ecological, biological, and natural history implications.
 
 
 ## Included data ##
@@ -44,3 +43,10 @@ Contains genetic distance data and Rscripts used to generate plots related to di
 ### phylogenetic_inferences folder (Figure 1) ### 
 
 Contains input (individual and concatenated alignments) and output files for Bayesian (mrbayes) and Maximum Likelihood (iqtree) analyses to infer phylogenetic relationships using nucleotide (CDS_nt) and amino acid (CDS_aa) sequences of the mitochondrial protein-coding genes (COX1-3, CYTB, NAD1-6, ATP6) as well as the two concatenated mitochondrial ribosomal subunits (12S, 16S).
+
+
+
+### sequence_data_ folder ### 
+
+Contains all sequence information generated: Annotated mitochondrial genomes & single gene/protein sequences and alignments 
+

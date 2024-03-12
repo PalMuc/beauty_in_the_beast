@@ -1,0 +1,1486 @@
+LOCUS       Placozoa_sp_H28_contig1        1408 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX.
+ACCESSION   XXX_contig1
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     rRNA            1..1003
+                     /gene="rnL"
+                     /locus_tag="PLSPH28_R01"
+                     /product="large ribosomal subunit (16S)"
+                     /note="trans-splicing"
+                     /note="rnL encoded by two regions: rnLa and rnLb"
+                     /label="rnL rRNA"
+     gene            1..1003
+                     /gene="rnL"
+                     /locus_tag="PLSPH28_R01"
+                     /note="trans-splicing"
+                     /label="rnL gene"
+     tRNA            1069..1139
+                     /product="tRNA-Arg"
+                     /anticodon="(pos:1101..1103,aa:Arg,seq:tcg)"
+                     /locus_tag="PLSPH28_T01"
+                     /label="tRNA-Arg"
+     CDS             1178..>1408
+                     /codon_start=1
+                     /gene="ATP6"
+                     /locus_tag="PLSPH28_P01"
+                     /product="ATP synthase F0 subunit 6"
+                     /note="incomplete"
+                     /transl_table=4
+                     /translation="MVAAYFDQFNIIPIFSIWVYFLSFWINGEFFCFSNTFFMMSFAV
+                     FLFYTITRNNNTLVPNRILVGLELIYTHFYTVLXXXXXXXXGNYLAFVLSLFILILFG
+                     NGLGLFPYVFTPTXXXXXXXXXXXXXXXXXXXAGLITFRFNFFSILMPQGAPLALAPL
+                     LTIIETLSYISRAISLGVRLAANISSGHLLFSIIASFAWKMINAGILIGSFVPFAILI
+                     FVTILEMAVAIIQAYVFTLLTIVYLRDTVELH"
+                     /label="ATP6 CDS"
+     gene            1178..>1408
+                     /gene="ATP6"
+                     /locus_tag="PLSPH28_P01"
+                     /label="ATP6 gene"
+ORIGIN      
+        1 taaggacaaa caattaattt aggatgaaag actaggattt ctaaaaaata tttgattgga
+       61 gtaattacat tgaaaatcat gttggggacc catagggtcc cgggggggga atgccgggcg
+      121 ccgaaggcgc cccccccccc cctttatcta cccttacctg ccaaaaaggg aaaaaagaaa
+      181 aaacggggcc tgtaagtcgg agggagagcg cggagcccct agggcttcgc ctcccccgtt
+      241 cggcccccct ttttagcgtg ggggagaaaa aaactggaaa ctgaatcatc ttagtaccag
+      301 aataaaaaat caaccgagat cccaaaagta gtgagaacga aaatggggaa atttatcgaa
+      361 caaagagggt aagtattata cagtcccgta gataaagcat tttgtaaagg gggggcggag
+      421 ccctctgggc tccgcccccc ctcgaaagat atcgcggagg ggatccgtag gatcccctcc
+      481 ggccataggc gtcatttttc gccggggccc cgccctctct aatccaaagg atggaaatac
+      541 cgatagtgaa atagtactgt gaaggaaagt tgaaagagag ttgaaataga accggaaatc
+      601 ctaaaaaaaa agcagtaggt ctatagagcc tgcgtacctt ttgcataagt ggttcgcaag
+      661 tttttaattt ggcaaacttg aaccgtaagg ttgaggtgtt acgaaagtga aaaaagtcaa
+      721 atgaacccga aaccaagtga tctacccctg atctggcgtg ggcgaagggt ccaaaagggc
+      781 tccgtaccgc ggcctaaccg gtggatgtgg caaaatcctc ggatgaattg ggggtagtgg
+      841 tgatacgcca atcgcacttg gatatagctg gttttctgcg aaaactatct aagtagtgcc
+      901 gacattcccg tgtttttgtc gagtcagaca taggacgata aggccctatg tctaatggga
+      961 aacaacccta atcattagtt aaggacatta ataacagaaa aagggggggg gaggcggaat
+     1021 cgcggagggg atcctacgga tcccctccgg ccctcccaat ctcataccgc ttgtgtaact
+     1081 taaaagtaaa gtgtgtagtt tcgacctaca agataaaggt gcaattcctt tcacaagtcc
+     1141 aaaaagccta aaagatctct ttatttttag aaaacctatg gtagcagctt attttgatca
+     1201 atttaatatt attcctattt tttcaatttg agtatatttt ttatcttttt gaattaatgg
+     1261 tgagtttttt tgttttagta atactttttt tatgatgagt tttgcggtgt ttctttttta
+     1321 taccatcact agaaataaca atactttagt tccaaatagg attttagtag gattagaact
+     1381 aatttataca catttttata cagttttg
+//
+LOCUS       Placozoa_sp_H28_contig2          90 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     CDS             <1..>90
+                     /codon_start=1
+                     /gene="ATP6"
+                     /locus_tag="PLSPH28_P01"
+                     /product="ATP synthase F0 subunit 6"
+                     /note="incomplete"
+                     /transl_table=4
+                     /translation="MVAAYFDQFNIIPIFSIWVYFLSFWINGEFFCFSNTFFMMSFAV
+                     FLFYTITRNNNTLVPNRILVGLELIYTHFYTVLXXXXXXXXGNYLAFVLSLFILILFG
+                     NGLGLFPYVFTPTXXXXXXXXXXXXXXXXXXXAGLITFRFNFFSILMPQGAPLALAPL
+                     LTIIETLSYISRAISLGVRLAANISSGHLLFSIIASFAWKMINAGILIGSFVPFAILI
+                     FVTILEMAVAIIQAYVFTLLTIVYLRDTVELH"
+                     /label="ATP6 CDS"
+     gene            <1..>90
+                     /gene="ATP6"
+                     /locus_tag="PLSPH28_P01"
+                     /label="ATP6 gene"
+ORIGIN      
+        1 tggaaattat ttagcatttg tgttatcttt atttatttta attctttttg gaaatggatt
+       61 aggacttttt ccatatgtgt ttactcctac
+//
+LOCUS       Placozoa_sp_H28_contig3         717 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     CDS             <1..351
+                     /codon_start=1
+                     /gene="ATP6"
+                     /locus_tag="PLSPH28_P01"
+                     /product="ATP synthase F0 subunit 6"
+                     /note="incomplete"
+                     /transl_table=4
+                     /translation="MVAAYFDQFNIIPIFSIWVYFLSFWINGEFFCFSNTFFMMSFAV
+                     FLFYTITRNNNTLVPNRILVGLELIYTHFYTVLXXXXXXXXGNYLAFVLSLFILILFG
+                     NGLGLFPYVFTPTXXXXXXXXXXXXXXXXXXXAGLITFRFNFFSILMPQGAPLALAPL
+                     LTIIETLSYISRAISLGVRLAANISSGHLLFSIIASFAWKMINAGILIGSFVPFAILI
+                     FVTILEMAVAIIQAYVFTLLTIVYLRDTVELH"
+                     /label="ATP6 CDS"
+     gene            <1..351
+                     /gene="ATP6"
+                     /locus_tag="PLSPH28_P01"
+                     /label="ATP6 gene"
+     tRNA            444..514
+                     /product="tRNA-Trp"
+                     /anticodon="(pos:2055..2057,aa:Trp,seq:tca)"
+                     /locus_tag="PLSPH28_T02"
+                     /label="tRNA-Trp"
+     tRNA            586..667
+                     /product="tRNA-Leu"
+                     /anticodon="(pos:2200..2202,aa:Leu,seq:taa)"
+                     /locus_tag="PLSPH28_T03"
+                     /label="tRNA-Leu"
+ORIGIN      
+        1 gcgggtttaa taacctttcg ttttaatttt tttagtattt taatgccaca aggagctcct
+       61 ttagctttgg cccccttatt aacaataatt gaaacattaa gctatatttc tagagccatc
+      121 tctcttggag ttagattagc tgctaatatt agttcaggac atcttctttt tagtattatt
+      181 gcaagttttg catgaaaaat gattaatgcc ggtattttaa ttggctcttt tgtgcccttt
+      241 gcaatattga tttttgttac aatattagaa atggctgtag ctattattca agcttatgtg
+      301 tttactttat taactattgt ataccttaga gatactgttg agctacatta aaagtggaaa
+      361 gggggcgggg cacctaaggt gcccctgcgc cgctagcccc atccgcccct tccgccgcgc
+      421 cgcgggggtc ctccggaccc cccaggagat taggttaaag gtaaactctt agtcttcaaa
+      481 actatcaaaa tcggttcaaa tccggtatct cctgttttaa cctttttggg gaaaaacggg
+      541 ggcgcgggcg gggatctttt gagatccccc tccccttccc gttttgctgt catggcgaaa
+      601 ttaggtagac gcggaagatt taaaatcttt tcgaaaatcg gtgaaagttc aagtctttct
+      661 gacagcccgc gggcgagcca gcgccccccc ttttttttgg cccatttttg aggttgt
+//
+LOCUS       Placozoa_sp_H28_contig4         736 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     CDS             30..>736
+                     /codon_start=1
+                     /gene="NAD6"
+                     /locus_tag="PLSPH28_P02"
+                     /product="NADH dehydrogenase subunit 6"
+                     /note="incomplete"
+                     /transl_table=4
+                     /translation="MTIRGALGSPASSAVTPTYSYNFLASVFWLILTFIGSSGLFIVL
+                     GMEFLGLIFLIVYVGAICIIFLFVIMMIPGGDQKEGAPSAPLFFNYLESKRGGGRPPR
+                     APGNPTDPRPRGSYGSPIGILIGAILAAELASAVPDSFFKNSEFEHIKCSLSSSNGDP
+                     GGGSPSGSPGPESITSGFQNFIYTPESVGSASNYNDSFFSPSAPGGTNLEAIGSVLYI
+                     NYYYAFILVSFILLVAMXXXXXXXXXXXXXXXXXXXXXXXXXXMRRAPRSRAGILWVR
+                     "
+                     /label="NAD6 CDS"
+     gene            30..>736
+                     /gene="NAD6"
+                     /locus_tag="PLSPH28_P02"
+                     /label="NAD6 gene"
+ORIGIN      
+        1 tatcaagtat tactgtaata gctgctatta tgacaatccg gggggcccta ggatcccccg
+       61 cctcttcggc agttactcct acctactcat acaatttcct agcatctgtt ttttgattaa
+      121 tattgacatt tattggtagt tctggccttt ttattgtttt aggtatggaa tttttgggtt
+      181 taattttttt aattgtatat gttggagcta tttgtattat ttttttattt gtaataatga
+      241 tgattccagg aggggatcaa aaagaggggg cgccttcggc gccccttttt tttaattatt
+      301 tagaatctaa aagagggggg gggcgcccgc ctagggcgcc ggggaatcct acggatccgc
+      361 gcccccgggg atcctatgga tcccccatag ggattttaat aggagcaatt ttggctgctg
+      421 agttagcttc cgccgttcct gattcctttt ttaaaaattc ggaattcgaa catattaaat
+      481 gttccctttc ctcttcaaac ggggatccgg gcggggggag cccttcgggc tcccccggcc
+      541 ccgaaagtat cacctctggg tttcaaaatt ttatttatac gcccgaatcc gttggatccg
+      601 cttccaatta taatgattct tttttctcgc cttcggcgcc cggaggtact aatcttgaag
+      661 ccattggttc cgtattatat attaattatt attatgcttt tattttagtt agttttatat
+      721 tattagttgc tatgat
+//
+LOCUS       Placozoa_sp_H28_contig5         393 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     gene            <1..45
+                     /gene="NAD6"
+                     /locus_tag="PLSPH28_P02"
+                     /label="NAD6 gene"
+     tRNA            complement(94..166)
+                     /product="tRNA-Asn"
+                     /anticodon="(pos:complement(3602..3604),aa:Asn,seq:gtt)"
+                     /locus_tag="PLSPH28_T06"
+                     /label="tRNA-Asn"
+     tRNA            complement(189..280)
+                     /product="tRNA-Ser"
+                     /anticodon="(pos:complement(3713..3715),aa:Ser,seq:gct)"
+                     /locus_tag="PLSPH28_T07"
+                     /label="tRNA-Ser"
+     tRNA            complement(318..391)
+                     /product="tRNA-Thr"
+                     /anticodon="(pos:complement(3826..3828),aa:Thr,seq:tgt)"
+                     /locus_tag="PLSPH28_T09"
+                     /label="tRNA-Thr"
+ORIGIN      
+        1 atgagaagag cgccgcgctc gagggcggga atcctttggg ttcgccccgg cgggcgcctc
+       61 tggcgccccg atccccttgg attcccttta tatcgagatt gaaaagaatt gaacttttat
+      121 ccttcaagtt aacagcttga tgtttttccg attaaactac aatctcgggc atataaaact
+      181 tccttttttg tattgaacag gatttgaacc tgtgggggcg ttttttgcac ccccgccgct
+      241 tagcaagcgg ctgctttaaa ccggacttag ctatcaatac cctttccatc cttagctgat
+      301 aattttttcc cctttttagc ctttggcagg acttgaaccc acatttgact gtttacaaaa
+      361 cagctgaatt tacctgttat cctacaaagg caa
+//
+LOCUS       Placozoa_sp_H28_contig6         376 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 tatttaggca ggaaaagggg gggggggtag agggcgagcc tcgggcgagc gccccgtagg
+       61 gggcgctcgc gcatcctttt agttcggggg gcgcccgcag taggcgaccc gccgtgtgga
+      121 gttttgactc ttttatatag aattttttaa tttcatgatt attcgggggg ggggaccctt
+      181 tgggttcccg ccccctctat aaattaaaaa aagtgttgta taaaaaagta aaaagattgc
+      241 aaagcaacgg gcgaccggat ccttcggatc cccgccgggg agccaaaagg gcggtggaaa
+      301 atacttaaaa caatgaggga ttgtattcaa gtaaaaagga aatatataaa aaactactat
+      361 tccgggataa ggaaaa
+//
+LOCUS       Placozoa_sp_H28_contig7         550 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     tRNA            72..151
+                     /product="tRNA-Lys"
+                     /anticodon="(pos:4777..4779,aa:Lys,seq:ttt)"
+                     /locus_tag="PLSPH28_T08"
+                     /label="tRNA-Lys"
+     tRNA            413..503
+                     /product="tRNA-Ser"
+                     /anticodon="(pos:5121..5123,aa:Ser,seq:tga)"
+                     /locus_tag="PLSPH28_T10"
+                     /label="tRNA-Ser"
+ORIGIN      
+        1 agtcctatat aaatccaaag ccggagggat cctttggatc ccgggatcgc cgtcgggccc
+       61 cctttttccc cctgagagta gcttaattgg ttgagcatta gacttttaat ctaatggatg
+      121 tgggttcaaa tcccatctct cttatggcag attatttaga tccggagccc agaaagctcc
+      181 cccttggatc tgtatgggtt ggcggggcgg aattcggagg gggatccgta ggatccggag
+      241 agcgggatcc gtaggatccc ccccggcccc cgaaggattc cgcccccccc ggaaccacag
+      301 tacccctcca caatataaaa aaaggctgaa aaaagttgaa cagggctcct tttttcggat
+      361 gatgggcggg ggcggggatc ctttggatcc ccctgtttta ggatgaaaaa gggtattgat
+      421 agctaagtcc ggtttaaagc gtctgccttg aaagcaggcc ggcgccgttg gcgcccacgc
+      481 gggttcgaat cctgctcaat actttttcct aaaatattta tttttaaaaa aaatcaggtt
+      541 gagaagaatt
+//
+LOCUS       Placozoa_sp_H28_contig8         663 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     tRNA            complement(16..86)
+                     /product="tRNA-Gly"
+                     /anticodon="(pos:complement(5319..5321),aa:Gly,seq:tcc)"
+                     /locus_tag="PLSPH28_T12"
+                     /label="tRNA-Gly"
+     CDS             complement(123..593)
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=4
+                     /note="incomplete"
+                     /product="cytochrome c oxidase subunit 1"
+                     /translation="MTSFVRWFFSCNHKDIGSLYLVFGALSGAIGTAFSMLIRLELSS
+                     PGSMLGDDHLYNVIVTAHAFVMIFFLVMPTMIGGFGNWFVPLMIGAPDMAFPRLNNIS
+                     FWLLPPALFLLLGSSLVEQGAGTGWTVYPPLASIQAHSGGSVDMAIFSLHLAGLSSIL
+                     GAMNFITTVLNMRTPGMTMSRIPLFVWSVFITAILLLLSLPVLAGAITMLLTDRNFNT
+                     TFFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGIISQIXXXXXXXXXXXXXXXXXY
+                     AMLAIGILGFIVWAHHMYVVGMDVDTRAYFTAATMIIAVPTGIKIFSWLATISGSGRN
+                     LNFTTPMAWALGFIFLFTIGGLTGIVLSNSSLDILLHDTYYVVAHFHYVLSMGAVFAI
+                     FGGFYLWFGKITGYAYKDIYGLIHFWLMFFGVNITFFPQHFLGLAGLPRRYADYPDNF
+                     EDFNQISSFGSIISIIAVIWFVVVIFDAYYREEPFDINIFAKGPLTPFSCQPIHFDTL
+                     EWTLTTPPEHHTYNELPYIVGGPKSS"
+                     /label="COX1 CDS"
+     gene            complement(123..>663)
+                     /gene="COX1"
+                     /locus_tag="PLSPH28_P03"
+                     /note="trans-splicing"
+                     /label="COX1 gene"
+ORIGIN      
+        1 actacaaccc gcttctatcc atagggggaa ttgcaccccc attttctact tggaaggcag
+       61 acattttact attaaactat atggacaacg gcgggggatc ctttggatcc cgcggcctgg
+      121 aattatgagg atttaggacc cccaactata tatggtaatt cattataagt atgatgttct
+      181 ggtggggttg tcaaggttca ttctaatgta tcaaaatgta taggttgaca agaaaagggg
+      241 gttaaaggac cttttgcaaa aatatttatg tcaaagggtt cttctctgta gtatgcatca
+      301 aatattacaa ctacaaatca aattacagct ataattgata taattgaccc aaatgagctt
+      361 atttgattaa aatcttcaaa attatctgga taatctgcat atcttcttgg taatcctgct
+      421 aatcctaaaa aatgttgagg aaaaaaagta atatttaccc caaaaaacat taatcaaaag
+      481 tgtattagac catatatatc tttgtatgca taacctgtta ttttcccaaa tcataaataa
+      541 aatcccccaa atattgcaaa aactgctccc attgatagta catagtgaaa atgctaaagg
+      601 tagaaaaaac caatagatag attggaagca caaggagagg aaaggtgtga atcccggggc
+      661 gcc
+//
+LOCUS       Placozoa_sp_H28_contig9         475 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     CDS             complement(73..240)
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=4
+                     /note="incomplete"
+                     /product="cytochrome c oxidase subunit 1"
+                     /translation="MTSFVRWFFSCNHKDIGSLYLVFGALSGAIGTAFSMLIRLELSS
+                     PGSMLGDDHLYNVIVTAHAFVMIFFLVMPTMIGGFGNWFVPLMIGAPDMAFPRLNNIS
+                     FWLLPPALFLLLGSSLVEQGAGTGWTVYPPLASIQAHSGGSVDMAIFSLHLAGLSSIL
+                     GAMNFITTVLNMRTPGMTMSRIPLFVWSVFITAILLLLSLPVLAGAITMLLTDRNFNT
+                     TFFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGIISQIXXXXXXXXXXXXXXXXXY
+                     AMLAIGILGFIVWAHHMYVVGMDVDTRAYFTAATMIIAVPTGIKIFSWLATISGSGRN
+                     LNFTTPMAWALGFIFLFTIGGLTGIVLSNSSLDILLHDTYYVVAHFHYVLSMGAVFAI
+                     FGGFYLWFGKITGYAYKDIYGLIHFWLMFFGVNITFFPQHFLGLAGLPRRYADYPDNF
+                     EDFNQISSFGSIISIIAVIWFVVVIFDAYYREEPFDINIFAKGPLTPFSCQPIHFDTL
+                     EWTLTTPPEHHTYNELPYIVGGPKSS"
+                     /label="COX1 CDS"
+     gene            complement(<1..>475)
+                     /gene="COX1"
+                     /locus_tag="PLSPH28_P03"
+                     /note="trans-splicing"
+                     /label="COX1 gene"
+ORIGIN      
+        1 actaattgaa aagagtattt ccagcatata gtacattaca gaaagaacct tacggataaa
+       61 acggcccaaa aaagcaacta cataataagt atcatgtaat aatatatcaa gagaactatt
+      121 ggaaagaacg atacctgtta aacctccaat tgtaaataag aaaataaaac ctaaagccca
+      181 cgccatcgga gtggtaaaat ttaaattgcg tccactacca ctaatagtag ctaatcaact
+      241 atgaactaga agggggggac cctttgggtc cccccccccc tttcccaaac cgtacgtgat
+      301 agtttcccat catacggctt tcccccaaag ttatatctca ccattatgtt gggggcgggg
+      361 atccggagga tccccgcccc ggccttttcg aaaaaatttt gttcgtagaa gtgttatact
+      421 ttcttgccag ggtcattcct gctgaactag taatcactca ttttaaccaa aattt
+//
+LOCUS       Placozoa_sp_H28_contig10         147 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     CDS             complement(35..129)
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=4
+                     /note="incomplete"
+                     /product="cytochrome c oxidase subunit 1"
+                     /translation="MTSFVRWFFSCNHKDIGSLYLVFGALSGAIGTAFSMLIRLELSS
+                     PGSMLGDDHLYNVIVTAHAFVMIFFLVMPTMIGGFGNWFVPLMIGAPDMAFPRLNNIS
+                     FWLLPPALFLLLGSSLVEQGAGTGWTVYPPLASIQAHSGGSVDMAIFSLHLAGLSSIL
+                     GAMNFITTVLNMRTPGMTMSRIPLFVWSVFITAILLLLSLPVLAGAITMLLTDRNFNT
+                     TFFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGIISQIXXXXXXXXXXXXXXXXXY
+                     AMLAIGILGFIVWAHHMYVVGMDVDTRAYFTAATMIIAVPTGIKIFSWLATISGSGRN
+                     LNFTTPMAWALGFIFLFTIGGLTGIVLSNSSLDILLHDTYYVVAHFHYVLSMGAVFAI
+                     FGGFYLWFGKITGYAYKDIYGLIHFWLMFFGVNITFFPQHFLGLAGLPRRYADYPDNF
+                     EDFNQISSFGSIISIIAVIWFVVVIFDAYYREEPFDINIFAKGPLTPFSCQPIHFDTL
+                     EWTLTTPPEHHTYNELPYIVGGPKSS"
+                     /label="COX1 CDS"
+     gene            complement(<1..>147)
+                     /gene="COX1"
+                     /locus_tag="PLSPH28_P03"
+                     /note="trans-splicing"
+                     /label="COX1 gene"
+ORIGIN      
+        1 attgaccatt catacgtacg attggttggc gcacaaatat tttaattcca gttggaaccg
+       61 caataatcat tgttgctgct gtaaagtaag ctcttgtatc aacgtccatt cctacaacat
+      121 acatgtgatc aaaaaagggg gaggggg
+//
+LOCUS       Placozoa_sp_H28_contig11         453 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     CDS             331
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=4
+                     /note="incomplete"
+                     /product="cytochrome c oxidase subunit 1"
+                     /translation="MTSFVRWFFSCNHKDIGSLYLVFGALSGAIGTAFSMLIRLELSS
+                     PGSMLGDDHLYNVIVTAHAFVMIFFLVMPTMIGGFGNWFVPLMIGAPDMAFPRLNNIS
+                     FWLLPPALFLLLGSSLVEQGAGTGWTVYPPLASIQAHSGGSVDMAIFSLHLAGLSSIL
+                     GAMNFITTVLNMRTPGMTMSRIPLFVWSVFITAILLLLSLPVLAGAITMLLTDRNFNT
+                     TFFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGIISQIXXXXXXXXXXXXXXXXXY
+                     AMLAIGILGFIVWAHHMYVVGMDVDTRAYFTAATMIIAVPTGIKIFSWLATISGSGRN
+                     LNFTTPMAWALGFIFLFTIGGLTGIVLSNSSLDILLHDTYYVVAHFHYVLSMGAVFAI
+                     FGGFYLWFGKITGYAYKDIYGLIHFWLMFFGVNITFFPQHFLGLAGLPRRYADYPDNF
+                     EDFNQISSFGSIISIIAVIWFVVVIFDAYYREEPFDINIFAKGPLTPFSCQPIHFDTL
+                     EWTLTTPPEHHTYNELPYIVGGPKSS"
+                     /label="COX1 CDS"
+     gene            complement(<1..>453)
+                     /gene="COX1"
+                     /locus_tag="PLSPH28_P03"
+                     /note="trans-splicing"
+                     /label="COX1 gene"
+ORIGIN      
+        1 cggggcgcgg gggtccgtag gacccccggg ccccccgggg atcaggccta tatcttcacc
+       61 taaaaaagcg ggtttaagac tttttggtcg gttttaatta gggcttcgca tctagtctct
+      121 gaagaaggat atggtacgga acctggtttt ccctcctgcg tattttatcc tgccgggggg
+      181 gatggagcct gaagggctct cgcccccccc gcgctatgat ctttttagca attttttttt
+      241 ctatcgctgt cattacctaa taattgggga tttccacgca tacggcgaag tagtggtcgc
+      301 tgatctcacg accgacgacg gcatcttttt gccaatatga ggggagccct gtcgggctcc
+      361 cctatcggac tatatctttt ccttttaggg gaggaatccg aaggattcct cgaggccgcc
+      421 tatggcgctt ctccccgcca aaggccatga cat
+//
+LOCUS       Placozoa_sp_H28_contig12        2003 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     CDS             complement(247..292)
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=4
+                     /note="incomplete"
+                     /product="cytochrome c oxidase subunit 1"
+                     /translation="MTSFVRWFFSCNHKDIGSLYLVFGALSGAIGTAFSMLIRLELSS
+                     PGSMLGDDHLYNVIVTAHAFVMIFFLVMPTMIGGFGNWFVPLMIGAPDMAFPRLNNIS
+                     FWLLPPALFLLLGSSLVEQGAGTGWTVYPPLASIQAHSGGSVDMAIFSLHLAGLSSIL
+                     GAMNFITTVLNMRTPGMTMSRIPLFVWSVFITAILLLLSLPVLAGAITMLLTDRNFNT
+                     TFFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGIISQIXXXXXXXXXXXXXXXXXY
+                     AMLAIGILGFIVWAHHMYVVGMDVDTRAYFTAATMIIAVPTGIKIFSWLATISGSGRN
+                     LNFTTPMAWALGFIFLFTIGGLTGIVLSNSSLDILLHDTYYVVAHFHYVLSMGAVFAI
+                     FGGFYLWFGKITGYAYKDIYGLIHFWLMFFGVNITFFPQHFLGLAGLPRRYADYPDNF
+                     EDFNQISSFGSIISIIAVIWFVVVIFDAYYREEPFDINIFAKGPLTPFSCQPIHFDTL
+                     EWTLTTPPEHHTYNELPYIVGGPKSS"
+                     /label="COX1 CDS"
+     gene            complement(<1..292)
+                     /gene="COX1"
+                     /locus_tag="PLSPH28_P03"
+                     /note="trans-splicing"
+                     /label="COX1 gene"
+     CDS             843..1709
+                     /codon_start=1
+                     /gene="COX3"
+                     /locus_tag="PLSPH28_P04"
+                     /product="cytochrome c oxidase subunit 3"
+                     /transl_table=4
+                     /translation="MSLVYHPYHLVDPSPWPFVGASGAFLFTSGAVILFHYSDYRLAL
+                     TGLFLIVITASAWWRDVIREGTHQGHHTQIVVRGLKLGMLLFILSEVCLFFAFFWAFF
+                     HSSLAPSVELGGVWPPKGIEALDPFAVPLLNTTILLSSGATVTWAHHAIIGGPKTIEG
+                     ANRASAPQGTLAPLPFSLSSNLRTNAVIGLLMTILLGIIFTGLQAFEYKEASFAISDS
+                     VYGSTFFMLTGTHGLHVLVGTTFLIVCFFRLLANQFTNSHHLGLEAAIWYWHFVDVVW
+                     LFLYVFVYWWGS"
+                     /label="COX3 CDS"
+     gene            843..1709
+                     /gene="COX3"
+                     /locus_tag="PLSPH28_P04"
+                     /label="COX3 gene"
+     tRNA            complement(1749..1819)
+                     /product="tRNA-His"
+                     /anticodon="(pos:complement(12007..12009),aa:His,seq:gtg)"
+                     /locus_tag="PLSPH28_T13"
+                     /label="tRNA-His"
+     tRNA            complement(1870..1941)
+                     /product="tRNA-Phe"
+                     /anticodon="(pos:complement(12128..12130),aa:Phe,seq:gaa)"
+                     /locus_tag="PLSPH28_T14"
+                     /label="tRNA-Phe"
+ORIGIN      
+        1 gggcgcggga tccttaggat cccggctgct gattgaccct tcattaatgt ttttttgagc
+       61 gaggggggga gggtaaaaaa aaaaggctaa aaagcctttt tcctttcccc ccctccgttt
+      121 tcaaaatcaa tgaaaaagaa ggcaaaaggg gggggggggc gccaacggcg cccctccccc
+      181 cctttctggg tgttccagca tatagtcata tagaaaaggg cccttacggg ccttttagcc
+      241 catcaaagct caaacaataa atcctaatat acctatggct aacatagcat agcaatattt
+      301 ttggtcccta aaggggctaa taaaaaatgg cgccctactt gagactcgtt gagaggatct
+      361 ctcaatttgg actggttctt tactccaggg caaagccctc cgttcctatg caaattcttt
+      421 atctcgtttt tgcgcgctaa aatgataaag gcgcgccccg ggcgcccctt tggggcttat
+      481 tttttaaaac tagggatcta aaagggtgcg tgggtgcgga ggtgagttgg gacgggccgg
+      541 ggggatcctt cggatccccc cggccccgcg ataatgagat cggggcccgg ggatccgaag
+      601 gatccccccc cccctgaaga attttgaaaa aaaagggaaa tccaactggg gactgggtct
+      661 aaagctgttt ttaggtaaaa gggaaccagg gggggcccgg gggcggaagg gcttcgcccc
+      721 cggccccccc ccgtaggatt ccgcctcttc aatcgggcgc aggggaattc ggaaaattcc
+      781 cccaaaggga ttaaaaggaa cggagacccc cccccagacc gggttcgagt cccaaaaaaa
+      841 ttatgtcttt agtttatcat ccttatcatt tagttgaccc tagcccttga ccttttgtag
+      901 gtgcttccgg tgcctttttg tttacatcag gtgcagttat tttatttcat tatagtgatt
+      961 atagattagc attgacaggg ctatttttaa ttgtaataac cgcgtctgcc tgatgaagag
+     1021 atgttataag agaaggaact catcaaggac atcatacaca aatagtagta agagggctaa
+     1081 agttgggtat gcttttattc attctttcgg aagtttgttt attttttgct ttcttctgag
+     1141 ctttttttca cagtagttta gctccaagtg ttgaattagg tggtgtttga ccacctaagg
+     1201 gaatagaggc cttagatcct tttgcagtac ctcttttaaa tacaacaatt ttattaagtt
+     1261 caggtgctac agtaacttga gcacatcatg caattatagg ggggccaaaa actatcgaag
+     1321 gggccaatcg ggccagcgcc ccgcagggga cgctcgcgcc cctgccattt tctttatcat
+     1381 caaaccttag aactaatgca gtaataggac ttttaatgac gatactattg ggtataatat
+     1441 ttacagggtt gcaagcattt gaatataaag aagcttcatt tgcaatatca gattctgttt
+     1501 atggttctac attttttatg ttaacgggta ctcatggtct acatgtatta gttgggacta
+     1561 cctttttaat tgtttgtttt tttcgccttt tagcgaacca atttactaat agtcatcatc
+     1621 ttggattaga ggcggctatt tggtattgac attttgttga tgttgtttga ctcttccttt
+     1681 atgtgtttgt atattgatgg ggatcctagc cttttggttt ttttggatcc cttttaatat
+     1741 tttagtatag tgaaaggaga gaatcgaact cccacgaaca aagccacaga ctgtagttct
+     1801 gccattaaac tactttcacc aacgaaatag gaaggactct caaagttttt aactttctcc
+     1861 tttttaattt gcctaaagaa ggaattgaac cttctccact aaagcttcag tttagtgctc
+     1921 taccatttga gctatttaag ccgggctcgg ggggggatcc gaagggggga tccgcgggat
+     1981 cctttggggt acctatggtg ccc
+//
+LOCUS       Placozoa_sp_H28_contig13        2116 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     CDS             join(78..883,1286..>2116)
+                     /codon_start=1
+                     /gene="NAD5"
+                     /locus_tag="PLSPH28_P05"
+                     /product="NADH dehydrogenase subunit 5"
+                     /transl_table=4
+                     /note="incomplete"
+                     /translation="MYLLVLLLPFINAFFLGFFGRLVGTTGSGILSTICMGSSTLIAL
+                     FLAYEVLVNDAVVHIELYKWIESEIFITHIGLLYDTLSVTMLLVISSISTLVHIYSTS
+                     YMSEDPHVPRFLCYLSLFTFLMMVLVTSDNYLQLFIGWEGVGICSYLLVAFWTTRIQA
+                     NKAAIKAIVVNRVGDVGVILGMVLTYQTIGSLDFLTFNGGSFGSGIMDRGYSGEGGPY
+                     ESPLAPFAIIGILLLIGCIGKSAQLGLHTWLPDAMEGPTPVSALIHAATMVTAGVFLM
+                     IRSFPLFERAPLTLLIITIFGALTAFFAATVGLVQNDLKKVIAYSTCSQLGYMVLIIV
+                     IEGSHNVGLFHLVNHAFFKALLFLSAGSVIHSLTIDEQDMRKMGGLIHSIPFTYTMML
+                     IGSFSIMGLPYLTGFYSKDLILELTYSGRNAGDPLFRPLGPPQLYIQKDLGEPDLTLL
+                     KLTGFPSRGSAFAFWLGTVAALLTAFYSIRLVYITFIISPNSPKESLISSHINIVDKR
+                     VLTVLSLLCFGAIFVGYLIQDILIGDIEHPIVPPFIKVXXXXXXXXXXXXCLWAQKGT
+                     PGTLRVPSLGSSFLLSIYSFLGGAWQGDHLINKLVVIPLFSFGHWGIYKTLDRGWLEL
+                     FGPQGISTIALRVSQFISNLQSGVISRYALVLLSFTIIFLALGAGAP"
+                     /label="NAD5 CDS"
+     gene            78..>2116
+                     /gene="NAD5"
+                     /locus_tag="PLSPH28_P05"
+                     /label="NAD5 gene"
+ORIGIN      
+        1 agcggatctt tagatccggt aggctttttt tcataggtcc ttttttggtc ttatacaagg
+       61 ttcggatata aggaaagatg tatttattag ttttactttt gcctttcatt aatgcttttt
+      121 ttctaggttt ttttggtcga ttagtgggta ccacgggtag tgggatttta agtacaatat
+      181 gtatgggaag tagcacacta attgcacttt ttttggctta tgaagtatta gtaaatgatg
+      241 ccgttgtcca tatagaatta tataagtgga ttgaaagtga aatttttata actcatatag
+      301 gtcttttata tgatacttta agtgttacta tgttacttgt tatttctagt atttctacat
+      361 tagtacatat ttattctaca agttatatgt ctgaggatcc tcatgttccc agatttttat
+      421 gttatttatc tttatttaca tttttaatga tggtattagt tactagcgat aattatctac
+      481 aattatttat tggttgagaa ggagtaggaa tttgttctta tttattagta gccttttgaa
+      541 ctacaagaat acaggcaaat aaagcagcca taaaagcaat tgtagtaaat agagttggag
+      601 atgtaggagt aatattagga atggtactaa cgtaccaaac aataggttcg ttagattttt
+      661 taacattcaa tggggggtcc tttgggtccg gaataatgga tagaggatat tccggtgagg
+      721 gggggcccta tgaatccccc ctcgcccctt ttgcaataat cggaatcctt ttactaattg
+      781 gttgtattgg taaatctgct caattaggtt tacatacatg gttaccggat gctatggaag
+      841 gtcctacccc agtatctgct ttaattcatg cagctactat ggtaaaaagt aattgccggg
+      901 gggaatatcg taagtttccc catttttatt tcactatatg ctggaaaaat ctaaaacata
+      961 tggaaccaaa aacgggcggg gaataatcgg caggggggga accggagccc ttcgggctcc
+     1021 cctcccccgg ggatccgtag gatccccgcc catgcccgtt tttgtcgtgg atttatcagc
+     1081 aggtaaccac aaaagacttt tttcaagtgg aacctcagag actgtatgtg aaaaacgaag
+     1141 ggcggggggg aattcgaaga attccccccc gccttcgtta aagaaacagt ccgagccagg
+     1201 gcgaaagccc tgggcgcaga tgttatctgg gctacgctaa gtttttaaaa aggaaaatac
+     1261 gtagcccaac atctaaacat aaatgaactg ctggagtgtt tttaatgata agatcttttc
+     1321 ctttatttga aagggctcct ttaactcttt taattattac catttttggc gctttaaccg
+     1381 ccttttttgc cgccactgtt ggattagttc aaaatgattt aaaaaaagta attgcttatt
+     1441 ctacatgtag tcaattgggc tatatggttt taataatagt aatagaagga tcacataatg
+     1501 tgggtttatt tcatcttgtt aatcatgcat tttttaaagc attattattt ttaagcgcag
+     1561 gatccgtcat acatagtttg acgattgatg aacaagatat gcgaaaaatg ggaggtttaa
+     1621 tacattcaat accatttaca tatacaatga tgttaatagg atctttttct ataatgggtt
+     1681 taccatattt aacaggattt tattcaaaag atttaatatt agaattaaca tattctggta
+     1741 gaaacgcggg ggacccgctt ttccggccct tggggccgcc tcaactgtat atacaaaagg
+     1801 atttggggga gccggacctt acgttattaa agcttaccgg ttttccttct agaggttctg
+     1861 cttttgcttt ttgattaggt actgttgctg ctctattaac agctttttat tcaataagat
+     1921 tagtttacat aacttttatt atttctccta attctcctaa agaatctctt attagttctc
+     1981 atataaatat tgtggataaa agagtattaa cagtgttaag tttattatgt tttggagcta
+     2041 tatttgttgg atatcttatt caggatattt taataggaga catagaacac ccaatagtac
+     2101 caccgttcat aaaagt
+//
+LOCUS       Placozoa_sp_H28_contig14        1908 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     CDS             <1..342
+                     /codon_start=1
+                     /gene="NAD5"
+                     /locus_tag="PLSPH28_P05"
+                     /product="NADH dehydrogenase subunit 5"
+                     /transl_table=4
+                     /note="incomplete"
+                     /translation="MYLLVLLLPFINAFFLGFFGRLVGTTGSGILSTICMGSSTLIAL
+                     FLAYEVLVNDAVVHIELYKWIESEIFITHIGLLYDTLSVTMLLVISSISTLVHIYSTS
+                     YMSEDPHVPRFLCYLSLFTFLMMVLVTSDNYLQLFIGWEGVGICSYLLVAFWTTRIQA
+                     NKAAIKAIVVNRVGDVGVILGMVLTYQTIGSLDFLTFNGGSFGSGIMDRGYSGEGGPY
+                     ESPLAPFAIIGILLLIGCIGKSAQLGLHTWLPDAMEGPTPVSALIHAATMVTAGVFLM
+                     IRSFPLFERAPLTLLIITIFGALTAFFAATVGLVQNDLKKVIAYSTCSQLGYMVLIIV
+                     IEGSHNVGLFHLVNHAFFKALLFLSAGSVIHSLTIDEQDMRKMGGLIHSIPFTYTMML
+                     IGSFSIMGLPYLTGFYSKDLILELTYSGRNAGDPLFRPLGPPQLYIQKDLGEPDLTLL
+                     KLTGFPSRGSAFAFWLGTVAALLTAFYSIRLVYITFIISPNSPKESLISSHINIVDKR
+                     VLTVLSLLCFGAIFVGYLIQDILIGDIEHPIVPPFIKVXXXXXXXXXXXXCLWAQKGT
+                     PGTLRVPSLGSSFLLSIYSFLGGAWQGDHLINKLVVIPLFSFGHWGIYKTLDRGWLEL
+                     FGPQGISTIALRVSQFISNLQSGVISRYALVLLSFTIIFLALGAGAP"
+                     /label="NAD5 CDS"
+     gene            <1..342
+                     /gene="NAD5"
+                     /locus_tag="PLSPH28_P05"
+                     /label="NAD5 gene"
+     CDS             462..>1908
+                     /codon_start=1
+                     /gene="NAD2"
+                     /locus_tag="PLSPH28_P06"
+                     /product="NADH dehydrogenase subunit 2"
+                     /note="incomplete"
+                     /transl_table=4
+                     /translation="MNNPRDLFDPMISMITQFVPILVITLAIFIILLRPGPKAPNIYI
+                     AFFATLIAFFITIQGALPGALRAPVGFPLPLKDLLDPVILPTGNPTDPAIENSGGGAP
+                     LPWILMNMATATGAGGGAYGAPRFGVNLSDILSNYFFFNFAMGAYGAEILGLKGDSFS
+                     ELSFGMIKENTYWVSECVILLSLMGLLFLTNEKGSGLALVLIVGLGGLLLIESANWLT
+                     IYLALEFQTLALFILAGNPKGFPSPGSVPPEGGLKYWILGAMSSGFYLFGCALYFGFT
+                     GNEGMLGTILSATLETTNIELRQGSLGYLFITVAILFKLAAAPFHMWTPDVYEGAPTP
+                     TTALIAIIPKYVAFVLLTSLVITSKLLLSVAIISLIVGAFGALNQTRVKRLLAYSGIG
+                     HIGFVLIGVSAGTYEGLQAGWTYILVYLITTLASFTVICTLEEGGGSFGSPEYKKAEK
+                     KGAGSEGSADTEGGRAPLGRPPRQKVLFGGPIXXXXXXXXXXXXXXXXXXXXXXXXXX
+                     XXXXXXXXXXXXXGFLGKWFILVGSIKIAFSSSLPIYYLVALFAIICTCVSAFYYIRI
+                     VATIYFNFTRPLIKTKTPLSFILTWESILGGGSYGSAPGASFGGGKSILISIYIYFII
+                     FIIICPQPLLLMSHEAGAP"
+                     /label="NAD2 CDS"
+     gene            462..>1908
+                     /gene="NAD2"
+                     /locus_tag="PLSPH28_P06"
+                     /label="NAD2 gene"
+ORIGIN      
+        1 tgtttatggg cccaaaaagg tactcccggg acccttcggg tcccctcctt aggttcctct
+       61 tttttacttt caatatattc gtttttagga ggggcatgac aaggtgatca tctgataaac
+      121 aaactggtcg tgattcctct ttttagtttt ggtcattgag gtatttataa aactcttgat
+      181 aggggttggc ttgaactttt tggacctcaa gggataagta cgatagcact ccgtgtttct
+      241 caatttatta gtaacttaca gtcaggggtt atatcaagat atgctttagt tttattaagt
+      301 tttacaatta tatttttggc cctaggcgca ggggcacctt aggtgcccct gccctcggaa
+      361 gggtccgccc aaaggccgac ggagaagagg gcgagcgcgc ccttcgggcg ccccatccgc
+      421 cccccggcgg ccccgcgcta ctccccttgg gcgccgagaa aatgaataat cctcgagatc
+      481 ttttcgatcc aatgatatca atgatcaccc agtttgttcc gatattggtg atcactcttg
+      541 caatatttat tattctttta agaccggggc caaaggcccc gaatatatat atagcctttt
+      601 ttgcaacttt gatcgccttt tttattacaa tacagggggc cctcccggga gcccttcggg
+      661 ctcccgttgg gttccccctc ccccttaagg atcttttgga tcctgtgatt ttaccgacgg
+      721 ggaatccaac agatcccgct atagaaaata gcgggggggg ggcgcccctc ccatggatcc
+      781 ttatgaacat ggcaacggca acgggggcgg ggggcggcgc ctacggcgcc ccccgctttg
+      841 gggtcaatct ttctgatatt ctttctaatt attttttttt taattttgca atgggcgcct
+      901 acggcgcgga aattttagga ttaaaagggg atagtttctc tgaactatcc tttggtatga
+      961 taaaagaaaa tacatattga gtaagtgaat gtgttatctt gttaagttta atgggattac
+     1021 ttttcttgac aaacgaaaag gggtccggat tagccttggt tttaatagtc ggattagggg
+     1081 gtttattatt aattgaatct gcaaactggc ttacgattta tttagctttg gagtttcaaa
+     1141 cattagcatt gtttatttta gcggggaacc caaaggggtt cccctccccc ggatccgtgc
+     1201 ccccagaagg tggcctaaaa tattgaatat tgggggctat gtcttctggg ttttatttat
+     1261 ttggatgtgc tttatatttt ggatttacag gaaatgaagg aatgttggga acaatattat
+     1321 ctgcaacatt agagacaaca aatatagaac taagacaggg atcattagga tatttattta
+     1381 taactgttgc aatcttattt aaattagcgg cagctccttt tcatatgtga actcctgatg
+     1441 tttatgaagg ggctcccact ccaacaacag cattaattgc cattattcca aagtacgtag
+     1501 catttgtgct actaacaagt cttgtaataa cttcaaaatt gcttttatca gtggcaataa
+     1561 tctctctaat tgttggagcg tttggtgctt taaatcaaac cagagttaaa agacttcttg
+     1621 cttatagtgg aataggacac atcggcttcg tgctgattgg agtgtcagca gggacatatg
+     1681 aaggcctgca ggccggttga acgtatatcc ttgtttattt aattaccact ttagcttctt
+     1741 ttacagtgat ttgtacacta gaagaagggg ggggatcctt cggatccccc gaatataaaa
+     1801 aggcggaaaa aaagggggcc ggatccgaag gatccgcgga caccgagggg gggcgcgccc
+     1861 ctttggggcg ccccccccgc caaaaagtac tttttggggg tcccatta
+//
+LOCUS       Placozoa_sp_H28_contig15        1418 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     rRNA            543..>1418
+                     /gene="rnL"
+                     /locus_tag="PLSPH28_R01"
+                     /product="large ribosomal subunit (16S)"
+                     /note="trans-splicing"
+                     /note="rnL encoded by two regions: rnLa and rnLb"
+                     /label="rnL rRNA"
+     gene            543..>1418
+                     /gene="rnL"
+                     /locus_tag="PLSPH28_R01"
+                     /note="trans-splicing"
+                     /label="rnL gene"
+     CDS             <1..369
+                     /codon_start=1
+                     /gene="NAD2"
+                     /locus_tag="PLSPH28_P06"
+                     /product="NADH dehydrogenase subunit 2"
+                     /note="incomplete"
+                     /transl_table=4
+                     /translation="MNNPRDLFDPMISMITQFVPILVITLAIFIILLRPGPKAPNIYI
+                     AFFATLIAFFITIQGALPGALRAPVGFPLPLKDLLDPVILPTGNPTDPAIENSGGGAP
+                     LPWILMNMATATGAGGGAYGAPRFGVNLSDILSNYFFFNFAMGAYGAEILGLKGDSFS
+                     ELSFGMIKENTYWVSECVILLSLMGLLFLTNEKGSGLALVLIVGLGGLLLIESANWLT
+                     IYLALEFQTLALFILAGNPKGFPSPGSVPPEGGLKYWILGAMSSGFYLFGCALYFGFT
+                     GNEGMLGTILSATLETTNIELRQGSLGYLFITVAILFKLAAAPFHMWTPDVYEGAPTP
+                     TTALIAIIPKYVAFVLLTSLVITSKLLLSVAIISLIVGAFGALNQTRVKRLLAYSGIG
+                     HIGFVLIGVSAGTYEGLQAGWTYILVYLITTLASFTVICTLEEGGGSFGSPEYKKAEK
+                     KGAGSEGSADTEGGRAPLGRPPRQKVLFGGPIXXXXXXXXXXXXXXXXXXXXXXXXXX
+                     XXXXXXXXXXXXXGFLGKWFILVGSIKIAFSSSLPIYYLVALFAIICTCVSAFYYIRI
+                     VATIYFNFTRPLIKTKTPLSFILTWESILGGGSYGSAPGASFGGGKSILISIYIYFII
+                     FIIICPQPLLLMSHEAGAP"
+                     /label="NAD2 CDS"
+     gene            <1..369
+                     /gene="NAD2"
+                     /locus_tag="PLSPH28_P06"
+                     /label="NAD2 gene"
+ORIGIN      
+        1 gggtttttgg gaaaatgatt tatattagtt gggtctatta aaatcgcttt ttcctcttca
+       61 ctacctattt attatttagt agcccttttt gcaataatat gtacatgtgt ttcggcattc
+      121 tattatataa gaatagtggc tacaatctat ttcaatttta caagaccatt aattaaaacc
+      181 aaaactcctc tttcttttat tttaacatga gaatcaatat tggggggggg atcctatgga
+      241 tccgcccccg gggcttcctt cggaggcgga aaatcgatat taataagtat atatatatat
+      301 tttattattt ttattattat ttgtccacaa cctttgttat taatgtctca tgaagccggg
+      361 gcaccgtagg tgcccccggc gccccacccc ccggagggtc cgcgctgagc gcccccttcg
+      421 tcttttcctt tccgggataa gagagggggg aatccgaagg aggcgccccc gtagggggcg
+      481 cctcctttcc gcccttaagc ccattttctt ttattagaaa ggtacctttc cccctccgtc
+      541 attaagtgta aaagaagaaa aataataaag acaacgagtt aataggcctt gcaccagcta
+      601 tttaataaag agttcgtaac agttcactcg ataaattatt ttttttttaa aattttggtg
+      661 gcttaaaaaa aagaaggaaa ccgatgtttg tgacattcgt ttttaaaagg ggggcagggg
+      721 gggcgcctac tgcgggcgcc ccccctgccc cttccgaaac tatgaaaaga aaaacccgag
+      781 acgggggcca agggccctta cgggcccttg gcccccctgt ttttgggttt ttgaattggt
+      841 agcagaacgt atagtaaaaa aaaaattcga aaagaaaaat ctatagtgat aatgcgaaca
+      901 tgagtaacga gggatccgaa ggatccgggc ctaaggtttc caaggggcca aaaagaggcc
+      961 ccgggtgaac cagtccctaa taactgaagg cggggcgggg ggaaattcta cgaattcccc
+     1021 cccgcccccg tttagcgaag gggtttaaat ctaaaatact gattaatagc ccaggaaata
+     1081 attagaattt ttttgactgt actaaaatct aacaaaagtg ggcaaaaaaa aaggagaatt
+     1141 attattaagg aactcggcaa gttacacgtg taagatttcg agaaacgtga aaaacccttt
+     1201 atgagaagga aacttcctca agagtttatc taagataaaa gggagcctcg tctgtttacc
+     1261 aaaaacatag ttttcagcta ttaacgcaaa agcttcgtat tgaaaatgat gcctgcccaa
+     1321 tgattgtatc tgaaaggaaa ggaggggggg gcgagaaaag gaggcttaaa agcctttttc
+     1381 ctcccccccg tgcttagctt tctataagga caattgaa
+//
+LOCUS       Placozoa_sp_H28_contig16        3030 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     gene            <1..1123
+                     /gene="rnL"
+                     /locus_tag="PLSPH28_R01"
+                     /note="trans-splicing"
+                     /label="rnL gene"
+     rRNA            <1..1123
+                     /gene="rnL"
+                     /locus_tag="PLSPH28_R01"
+                     /product="large ribosomal subunit (16S)"
+                     /note="trans-splicing"
+                     /note="rnL encoded by two regions: rnLa and rnLb"
+                     /label="rnL rRNA"
+     gene            1261..3021
+                     /gene="rnS"
+                     /locus_tag="PLSPH28_R02"
+                     /label="rnS gene"
+     rRNA            1261..3021
+                     /gene="rnS"
+                     /locus_tag="PLSPH28_R02"
+                     /product="small ribosomal subunit (12S)"
+                     /label="rnS rRNA"
+ORIGIN      
+        1 ctcaataata aacctagtga aattgagacg gcggcgaaga cgccgcctat gaattctaag
+       61 acgagaagac cccattgagc tttactatta acttgtattg ccagagcaaa gggggggcgc
+      121 caacggcgcc ccggggatac cccggatccg tttggtcccc tgtcctttgc ttcataataa
+      181 aattgtggag actaagtgga aaaagaaaaa acaagggatt taaaagaacg gggggcgggg
+      241 atccgaggga gcccttcggg ctccctgaga tcccgcttcc gccccgtccc gatttatatg
+      301 aaaaaccact ctttttatta agattactgt ctaaaaccgt acaagtgaga tagtttggtt
+      361 ggggcgaccg ccttcgaaaa agtatcgaag gcgcacataa gattagtccg gaggggggtc
+      421 cgaaggatcc ccctcccggg ggcaatgccc caaaaaaaga ttagtttgac tgagagggct
+      481 acaacccgaa cagacgccag gggcccgggg cgggggcgcc ggggcggggg cggatctggc
+      541 gcccccgccc ccgccttttg gcgggtcata gtgatccgtt gttatattgt gggattgaca
+      601 acgatcaacg aagaaaagtt accatgggga taacagcgta atatcgttta agagtaccta
+      661 tcgctgacga tgtttgcgac ctcgatgttg aattgtgata tcctggaggt gcagcagctt
+      721 ccaagggttg gactgttcgt ccattaaaat catacatgat ttgagttcag atcggcgtga
+      781 gccaggtcgg tttctatcta gaattcaaaa ataaacaaag accagtttac cttctagtac
+      841 gaaaggatcg aagggtttat atcctctggt gattcaatcc gaacatgaga tcttcgaagg
+      901 tcttaagggg gatcttttgg ttcccgttgt tgagtagcta cgatataaag aataattgct
+      961 gaatgcaact caagcaagaa atctttggtc cgaaaatttt tagttgcggg gggagcgcct
+     1021 aggggccggg gaggcggggc acctacggtg ccccgcctcc ccggcccgcc cctcctggct
+     1081 ttaaagtttg tttaaaaaca attggggtag atcaccccga tttggcggga tcttttattt
+     1141 tgatccccaa aaggatggat agcggcgccg aaggcgcccc ttagtgaata accatttcca
+     1201 aaattgtttt ttgtccttaa atgggagtcc gaagtactcc ggactccccc cctttatttt
+     1261 gaaagtcctt tgattttgag gaaggtttaa agctagcggc acttttaata catgctagtc
+     1321 aaacggggaa tattaaaaaa gaaaaaaaat ttttagaaaa ccccgtggca aacaggtgag
+     1381 taatgtaccg attttgccca aaagtgaggg ccaaaacccc agggggaggg agagaaaacc
+     1441 ggggcgccta ccgcgggcgc cccccttctt ttccgtttcc cggaaattga ggggacccac
+     1501 ctcaggcgtt cgtttgcttt tggagagatc ggaattcgta ttagacgagg aggggagggg
+     1561 gagcagggga tccttcggat ccccctcccc ccttttcaaa aaagattttt cctctgtcaa
+     1621 tgatgcgtag ctgagaggtc acagttatac tgaaacaagg ataaccgcgc taatgcgcgc
+     1681 cagcagtaga gaattttggg caatcaacga aagttggacc cagagatgtc gctttttttg
+     1741 ggggatttgg cagatccgaa gagggggaac ggagcggaag aggggttcct aaggatcccg
+     1801 cttccctcgc tccctccccg cttccgggcc ccttttccct catttttaag tccgtccaaa
+     1861 agacgtgcca gcagacgcgg ttatacgtct ggactaagtt ttagccagaa aacaggcgta
+     1921 aagtgtgaag agggtgagcg aaaaagaaag cgcggttttt aaaagaaaaa atcccgcttt
+     1981 tatatagaga aaaaaaaggt aattggaact tttaggtatt ggtgaaataa ttcgatctaa
+     2041 aaaggaacac cggagacgaa ggttaattac caaaaagttc tgtcgctttt ttcacgaaaa
+     2101 catagggagc aaacaggatt agataccctg gtagtctatt gttgtaaaag ctgatctaac
+     2161 gcggcaaaat ttttatgtcg ccttgataac tcgaaaagat tccgcctgaa tagtacgacc
+     2221 gcaaggttga aattcaaaaa atttggcggt tcactaatcc aattagagga gcgtgtagtt
+     2281 taatgcgatg atccgcgaat aaccttacca gaacttgaat aaaaggaata ggcggggggg
+     2341 aactattttg gaatttttgc ttcgaaacgg atcccccccc cccggccctc gtgtgggccc
+     2401 cttttacagg tatcgcacgg ccgtcgtcag tttgtgttgt gaaactattt taacgaactt
+     2461 aacccctttt ttagataaaa agggggcaaa aagaggggaa aaatttttta accggcgggc
+     2521 gggggggggg atcttttgag atcccccccg cgccccccct tttttttatc tatttttttg
+     2581 ggatgacgtc aggtcctcat ggtcctaatg ttctgggccc ccgagggcgc ccgcagtagg
+     2641 cgccccgccc ttatgcgcta caatcttttt tacaaaaatg aatattctct tcgtttacaa
+     2701 ttctttttaa taaaaaagct cggagaaaga cctgaaaagt tcttttgaag ttggatttaa
+     2761 tagtaatcgt aaagtagagc gttacggtga atatggctct agtgttcgta caaatcgccc
+     2821 gtcaactcgg ccgagtttta aatgttggag aagcctaaga gcttctcggt atatatcggg
+     2881 ggcgccgaag gcgcccgggg gcgccttcgg cgccccccct acctccgctt ttccgaaaag
+     2941 ctttttagat tttgagactt tcgaaattag gttgagtaag tcgtaacaaa gcaagagtac
+     3001 tggaaagtgt tcttgactaa tcattggggg
+//
+LOCUS       Placozoa_sp_H28_contig17        1435 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     tRNA            123..193
+                     /product="tRNA-Pro"
+                     /anticodon="(pos:21477..21479,aa:Pro,seq:tgg)"
+                     /locus_tag="PLSPH28_T16"
+                     /label="tRNA-Pro"
+     CDS             complement(244..1287)
+                     /codon_start=1
+                     /gene="NAD1"
+                     /locus_tag="PLSPH28_P07"
+                     /product="NADH dehydrogenase subunit 1"
+                     /transl_table=4
+                     /translation="MTIYSYITVTIKLLIIFVPLLLSVAYLTLAERKVLGLMQNRKGP
+                     AIVGPWGLVQPIADGVKLLTKELVIPSQANKFLYYIAPIISFTLAILAWAIVTMDQGV
+                     FLSDLDVGVLYFFAISSLSVYAILLSGWASNSRYPFLGAIRCAAQMISYEVAIGLIII
+                     SVILCVGSLNISEIVISQRSVWLIIPLFPAAIMFMVASLAETARAPFDLTEGESELVS
+                     GFNVEYSSLSFALFFLAEYSNIILMSCMMTIFFLGGWLAPTAPLSGSLGSEAFKIFEQ
+                     VEAGSIGPPFWFFTKSSIFILFFIWSRASFPRIRYDQLMKLLWKTYLPLSLGLVILTA
+                     GILIGFNGVPPPF"
+                     /label="NAD1 CDS"
+     gene            complement(244..1287)
+                     /gene="NAD1"
+                     /locus_tag="PLSPH28_P07"
+                     /label="NAD1 gene"
+ORIGIN      
+        1 caaaggatcc ccgcgggcga gcgccccgta gcgagcgccc cctgcggggc gcggcgctcg
+       61 cgcgccccga aggatccggg ccctcccccc cctttttggc caatcttttt tgggtatttt
+      121 tacaggtgat agattagagg tagattactt gctttgggtg taagtggcac aggttcaaat
+      181 cctgttcatc tgattatatt ttaggaataa tattaaaaaa agaggaaatg ccccaaaaag
+      241 ccattaaaat ggcgggggca ccccattgaa tccaattaaa ataccagctg tcaatattac
+      301 tagtcctaaa cttaatggta aatatgtttt tcataataat ttcattaatt gatcatatct
+      361 tattcttgga aatgatgctc ttgatcatat aaaaaagagt ataaaaattg aagattttgt
+      421 aaaaaatcag aaaggggggc ctatggaccc cgcctccacc tgttcaaaaa ttttaaaagc
+      481 ttcagaccct agggacccgg agaggggcgc cgtaggcgcg agccagcccc caagaaaaaa
+      541 aatagtcatc atacaactca ttaatattat atttgaatat tctgctaaaa aaaataatgc
+      601 aaaagataat gatgagtatt ctacattaaa tcctgaaaca agttctgatt ctccttcagt
+      661 taaatcaaaa ggggctcttg ctgtttcagc taaactagca accataaaca taatagctgc
+      721 tggaaataaa ggtattatta gtcaaacaga tctttgactt ataactattt cagagatatt
+      781 taaggatccg acacaaagaa ttacggatat tattattaat cctattgcta cttcataact
+      841 tatcatttgt gccgcacatc ttattgctcc taaaaaagga tatcttgaat tactagctca
+      901 acctgataat aagattgcat atacacttag agaagatatt gcaaaaaaat ataaaactcc
+      961 tacatctaga tcacttaaaa aaactccttg atccattgta acaattgctc aagctaaaat
+     1021 tgctaaggta aaagaaatta taggagctat atagtataaa aatttatttg cctgactagg
+     1081 tattaccaac tcttttgtta atagtttaac cccatctgct attggttgta ctagacccca
+     1141 aggtccaact atcgcaggac cttttctatt ttgcattaac cccaaaactt ttctttcggc
+     1201 caatgttaaa taagcgactg ataataataa tggcacaaat attattaata attttattgt
+     1261 tactgttata tagctgtata ttgtcatttc ttatatcccg gggcgccgaa ggcgcccccc
+     1321 caaaggattt ttattaggac atacttcagt aacaaccata aaaggggaaa acaggcgggg
+     1381 cggggatcct acggatcccc ctcgggaaag agggaaaaga ggaggggatc cgaag
+//
+LOCUS       Placozoa_sp_H28_contig18         447 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     CDS             24..323
+                     /codon_start=1
+                     /gene="NAD4L"
+                     /locus_tag="PLSPH28_P08"
+                     /product="NADH dehydrogenase subunit 4L"
+                     /transl_table=4
+                     /translation="MTTGYLLVSIILFTTGVSGIIINKNNIILILMSIELILLAISYL
+                     LIVYSVTLDNLLGIIFSLMVLTVAAAESAIGLAILVAYYRLTGTITIKALNLLRG"
+                     /label="NAD4L CDS"
+     gene            24..323
+                     /gene="NAD4L"
+                     /locus_tag="PLSPH28_P08"
+                     /label="NAD4L gene"
+ORIGIN      
+        1 cctgcttgtt gaggggataa taagtgacaa cagggtattt attagtatct attattctat
+       61 ttacaactgg tgtttcggga ataataataa ataaaaacaa tattatttta attttgatgt
+      121 ccattgaact aattttatta gctatttctt atttattaat agtatattct gtaacattag
+      181 ataatttatt aggaattata ttttctctta tggttttaac cgtcgcggcg gcggaatccg
+      241 cgatcggatt agctatttta gtagcttatt atagattaac aggaactatc acaattaaag
+      301 cattaaattt attaagaggt taaattatta ttaggtgaaa agaggagggg atccttcgga
+      361 tcccgcgccc cccctcttgg atcggtttcg acggcgagcg ccgtcctata tccccctcga
+      421 atccgtagga tcccgctcaa ttttcct
+//
+LOCUS       Placozoa_sp_H28_contig19         484 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     tRNA            104..176
+                     /product="tRNA-Ile"
+                     /anticodon="(pos:23785..23787,aa:Ile,seq:gat)"
+                     /locus_tag="PLSPH28_T17"
+                     /label="tRNA-Ile"
+     tRNA            293..363
+                     /product="tRNA-Met"
+                     /anticodon="(pos:23973..23975,aa:Met,seq:cat)"
+                     /locus_tag="PLSPH28_T18"
+                     /label="tRNA-Met"
+     tRNA            398..469
+                     /product="tRNA-Gln"
+                     /anticodon="(pos:24079..24081,aa:Gln,seq:ttg)"
+                     /locus_tag="PLSPH28_T19"
+                     /label="tRNA-Gln"
+ORIGIN      
+        1 agggtttcta attggattta ctggagatga aaaaaaacca aaggcgcgcc ccctgcgggg
+       61 cgcgggggat ggagcctgaa gggctcggac cctacgggtc cctgtgaaag tagcttaaaa
+      121 ggtatagtgg cgccttgata aggcgcggga tacaggttca aatcctgtct ttcataatcc
+      181 aaaacattat ttttttaatc tttttctaca taaaggggaa caaaaagaaa ggggggatcc
+      241 gaaggaggcg cccccgcagg gggcgcggag cccgaagggc tcccccccgc ctggcagggt
+      301 agactaatgg caagttactg ggctcatgtc ccattgattt aggttcgatt cctaactcag
+      361 ccactccaca gggagttgcc atttgtggtt tttatattag ggggtagtta aacaggaaaa
+      421 accttagaat ttggctctaa agttgtgggt tcgagcccca ctcccctagg aggcccggcg
+      481 ccgg
+//
+LOCUS       Placozoa_sp_H28_contig20        1048 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     tRNA            <1..60
+                     /product="tRNA-Tyr"
+                     /anticodon="(pos:24179..24181,aa:Tyr,seq:gta)"
+                     /locus_tag="PLSPH28_T20"
+                     /label="tRNA-Tyr"
+     CDS             105..>1048
+                     /codon_start=1
+                     /gene="CYTB"
+                     /locus_tag="PLSPH28_P09"
+                     /product="cytochrome b"
+                     /transl_table=4
+                     /translation="MRLRKTGLLEPVNGIIDLPTPSNISYWWNFGSLLCLCLGIQILT
+                     GVLLAMHYRSDVSLAFSSVAHIVRDVNYGWILRYVHANGASLFFICVYCHIGRGLYYG
+                     GYSRVLTWIVGVLIFFIMMLTAFIGYVLPWGQMSFWGATVITNLVSALPSVGGSIVEW
+                     IWGGFSVSNCTLNRFFSLHYLLPFVLVGLVLAHLLTLHEKGSNEPLGLVGLSDRTAFH
+                     VYFTIKDILGFLILLGIFVIIGIEPRIETLLQDPENFIQANPLVTPVHIQPEWYFLFA
+                     YAILRSIPNKLGGVLALFASILVLLLMPILDRSKIRSLT"
+                     /label="CYTB CDS"
+     gene            105..>1048
+                     /gene="CYTB"
+                     /locus_tag="PLSPH28_P09"
+                     /label="CYTB gene"
+ORIGIN      
+        1 atgcggctcc ctgtaaagga gtgttttttt acaatgtagg ttcaaatcct gctcaatcta
+       61 cttaaagggg accctatggg tccccgattg ttttggaata taaaatgaga ttaagaaaga
+      121 cagggttatt agagcccgta aacggtatta ttgatcttcc tactccaagt aatattagtt
+      181 attgatgaaa ttttggttca ttattatgtc tttgtttagg cattcaaatt ttaactggtg
+      241 ttttattggc aatgcattat cggagtgatg ttagtttagc tttttcttct gttgcacata
+      301 ttgttcgtga tgttaactat ggttgaattt taagatatgt tcatgctaat ggtgcatctt
+      361 tgttttttat ttgtgtttat tgtcatattg gtagagggct ttattatggt ggatatagtc
+      421 gtgtattaac ttgaattgta ggtgttttaa tattttttat tatgatgtta accgctttta
+      481 tcggctatgt tttaccttga ggacaaatgt ctttttgagg ggctactgtt ataactaatt
+      541 tagtttcagc cctcccaagt gtgggaggct ctattgttga atgaatttga gggggattta
+      601 gtgtgtctaa ttgtactctt aatcgttttt ttagtttaca ttatttatta ccttttgttt
+      661 tagttggtct tgtattggct catttattaa ctttacatga aaaaggctca aacgagccgt
+      721 taggactcgt tggtttgtct gatagaactg catttcatgt ttattttact ataaaagata
+      781 tactaggatt tttaatactt ttaggaattt ttgtaataat tggaatagag cctcgaatag
+      841 agacattatt acaagatcca gagaatttta ttcaagccaa ccccttagtt acacctgttc
+      901 atattcaacc tgaatgatat tttttatttg cttatgctat tttaagatca atccccaaca
+      961 agttgggggg tgtcttagcc ctatttgcaa gtattttggt tctattatta atgccaatat
+     1021 tagatcgttc taaaataaga agtttaac
+//
+LOCUS       Placozoa_sp_H28_contig21        3200 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     CDS             complement(2172..2182)
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=4
+                     /note="incomplete"
+                     /product="cytochrome c oxidase subunit 1"
+                     /translation="MTSFVRWFFSCNHKDIGSLYLVFGALSGAIGTAFSMLIRLELSS
+                     PGSMLGDDHLYNVIVTAHAFVMIFFLVMPTMIGGFGNWFVPLMIGAPDMAFPRLNNIS
+                     FWLLPPALFLLLGSSLVEQGAGTGWTVYPPLASIQAHSGGSVDMAIFSLHLAGLSSIL
+                     GAMNFITTVLNMRTPGMTMSRIPLFVWSVFITAILLLLSLPVLAGAITMLLTDRNFNT
+                     TFFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGIISQIXXXXXXXXXXXXXXXXXY
+                     AMLAIGILGFIVWAHHMYVVGMDVDTRAYFTAATMIIAVPTGIKIFSWLATISGSGRN
+                     LNFTTPMAWALGFIFLFTIGGLTGIVLSNSSLDILLHDTYYVVAHFHYVLSMGAVFAI
+                     FGGFYLWFGKITGYAYKDIYGLIHFWLMFFGVNITFFPQHFLGLAGLPRRYADYPDNF
+                     EDFNQISSFGSIISIIAVIWFVVVIFDAYYREEPFDINIFAKGPLTPFSCQPIHFDTL
+                     EWTLTTPPEHHTYNELPYIVGGPKSS"
+                     /label="COX1 CDS"
+     gene            complement(2172..>3200)
+                     /gene="COX1"
+                     /locus_tag="PLSPH28_P03"
+                     /note="trans-splicing"
+                     /label="COX1 gene"
+     CDS             complement(122..1618)
+                     /codon_start=1
+                     /gene="NAD4"
+                     /locus_tag="PLSPH28_P10"
+                     /product="NADH dehydrogenase subunit 4"
+                     /transl_table=4
+                     /translation="MNWVLSTLLFLPPFVGVFHLLVAGTIRGSIRGSSGSFKRIALFW
+                     SFISLIGTIILWLSIDQEGGLTPLMKIDWIEGPEGTSWVPMGGPLVFAVDGVSIYFLI
+                     LTAFIVPCSILISWNSIKYLVKSFLICMLVLEFLLYAVFSVLDIFWFYILFEGVLIPM
+                     YLILGIWGSREEKMQAAYYFFFYTLIGSVIMLLCLFSLYNIHGTTDYMTLVSSNSIVP
+                     ENLQKWIFLGIFLAMAVKIPIFPFHIWLPKAHVEAPVAGSVLLAGILLKLGGYGLVRL
+                     SWPILPLGAQNLAPAIIAMGIIGIVYGSFGTCRQIDVKRLVAYSSVAHMGLASITLVT
+                     HDIIGLTGSIFIMLAHGIVSSLLFILVTILYDRHHTRLIKYYRGLSISMPIWATIMIM
+                     TSLANVAAPPSGGFVGEYLSILSSFNWNPMVGVFVCSGVILSAVYSFYFANRITFGVP
+                     SNLLTFSRDVNRREFYITASMILLAFFVGVCPAFILEVIQNSLFFLAL"
+                     /label="NAD4 CDS"
+     gene            complement(122..1618)
+                     /gene="NAD4"
+                     /locus_tag="PLSPH28_P10"
+                     /label="NAD4 gene"
+     CDS             complement(2268..>3200)
+                     /gene="LAGLIDADG endonuclease"
+                     /locus_tag="PLSPH28_P13"
+                     /product="LAGLIDADG endonuclease"
+                     /transl_table=4
+                     /note="incomplete"
+                     /translation="MLRDFTWKIYKMKKAKPEGAAYGASPPYENKGALLAPFFFANHL
+                     TQYYKQIGSPKIKAKSIGSGLYGLISFRGGANGAPPSFFSSWVVGLMEGAGVFKITGA
+                     KKGIWRERDPEGPRGMRPEGAPLPPILPAHLQIPNSYFFIQWLLFSSSXXXXXXXXXX
+                     XXXXXXXXXXXXXXXXXXXXXXMGSRLIEFELILGPKEGATGHLLRKKLGFGSITFDR
+                     KGSVRYHVKNNTHLRNLVSSMMEKGALKTPSVIERDGGGGEFVEFPPARGAIKILELG
+                     PPPLLTNAKDLGNFNLDAWLSGFFETTCSFQIFHKRFKRGAPKESVGFEKKRRGGARP
+                     NSTPPFTNPNWRDPSDPGFNISIEHNNKIALLIFKSYFGGHIARTGGPPPAIEYSGGG
+                     APGILWDPAPLLPLFTQNPTSLMSLQRNKSFIYKLSNKNALKKLIKILEREKLKTKKR
+                     IEFLKWSKIFFSIMESQTTSTPLTNRNKKRIKDFFLIKRDSL"
+                     /label="LAGLIDADG endonuclease CDS"
+     gene            complement(2268..>3200)
+                     /gene="LAGLIDADG endonuclease"
+                     /locus_tag="PLSPH28_P13"
+                     /label="LAGLIDADG endonuclease gene"
+ORIGIN      
+        1 gggcgccccg gggatccttc ggatcccccc cttttttttg gtcgattttt gattgtaaat
+       61 ataattgaaa agggggtatt taaaaattaa aaaagagagg ggatagaggg ctccgccctg
+      121 tctatagtgc gagaaaaaat aaggaatttt ggataacttc taaaataaaa gcagggcaaa
+      181 cgcctacgaa aaaagctaaa aggatcatag aagctgtaat ataaaattct cttctattta
+      241 catctctaga aaaagttaac agattggagg gaacaccaaa agtaattcga tttgcaaaat
+      301 aaaatgaata aactgcagat aatataacac cagaacaaac aaaaacacca accatagggt
+      361 ttcaattaaa actggataaa atagataaat attctccaac aaaaccaccg cttggcggcg
+      421 cagcgacatt agcaagagaa gtcattatca taatagttgc tcagataggc atagaaatcg
+      481 ataaacctct atagtattta attaatctgg tatgatgtcg gtcatataaa atagtgacaa
+      541 gaataaataa taaagagcta acaatcccat gtgctaacat aataaaaata gaacctgtta
+      601 aaccaataat gtcgtgagtg actaacgtta ttgaagctaa acccatatga gcaacagatg
+      661 aataggcaac aagtctttta acatcaattt gacggcaagt tccaaaagac ccgtaaacta
+      721 ttccaataat acccatcgct ataatcgcag gggctaaatt ttgagcaccc aatggtaaaa
+      781 taggtcaaga taatctaact aaaccataac cacctagttt taacaaaatt cctgctaata
+      841 atacagaacc agcaacagga gcctcaacat gtgcttttgg taatcatata tggaaaggaa
+      901 aaatcggtat ttttactgcc attgctaaga aaatccccaa aaatattcat ttttgtagat
+      961 tctccggaac aatggaatta gagcttacaa gtgtcatata atctgttgtt ccatgtatat
+     1021 tatacaaact aaataaacat aataacatta tgactgaacc tattaaggta taaaaaaaaa
+     1081 aataataagc agcttgcatt ttttcttctc ttgatcccca tattcctaat attaaataca
+     1141 ttggaattaa tactccttca aataaaatat aaaaccaaaa tatatctaat acagaaaata
+     1201 ctgcatataa taaaaattct aatactaaca tacaaattag aaaacttttt actaaatatt
+     1261 ttatagaatt tcaactaatt aaaatagaac aaggaactat aaaagcagtt aaaattaaaa
+     1321 aataaatgga cacaccatcc actgcaaaaa ctaaaggacc ccccatagga acccaggagg
+     1381 ttccctctgg cccttctatc caatcaattt tcatcaaagg ggttaatccc ccttcttgat
+     1441 ctattgataa ccataatata atagtgccaa ttaaggagat aaaagatcaa aataaagcaa
+     1501 ttcttttaaa ggagccggag gatcctctga tagatcccct tatggtcccc gctaccaata
+     1561 aatgaaaaac acccacaaaa gggggaagga ataatagtgt tgatagtact caattcattc
+     1621 ttcttatatc ttcctttgag gggggcggca gcggaacccg aagggttccg ctgccgcccc
+     1681 ccgtgggcca atatctaagc tatcacttct tagagttgtt tcgcgtaaag tctctgaggt
+     1741 tacaataaca cctagcaaac ataaaaaaaa gaattcaaaa ggggcggggg cgggggccgg
+     1801 gatcctaagg atcccgcggg tccctccgat ggatccccaa tctgttcgac ttttcttttt
+     1861 ttttcgggcg ccgcgccccg cagggggcgc tcgcccctcc catagtgttt tttggttacc
+     1921 tgctaatagt cccctttctc taaaaagaaa aaaggcgggc gcgagcgccc cctacggggc
+     1981 gctcgcccgg cgctgggctc cccgtttttc ttttgaattc ctgaccagat acggccgggg
+     2041 atttttcagc atatagcgaa attaattgta aagggagggg ggcgcccgca gtaggcgccc
+     2101 ccggctcgag ttttaaaaaa ggggcttgga ggggcggggg acctttgggt tccctacctc
+     2161 ggctataaca aacctctgga tgcaggcctt tacccgcgta gtttggactt tatcttttat
+     2221 ctagtaatga aaataataaa aaagaaggga cataaagaag aaaaaaatta taaagaatcc
+     2281 cttttaatta gaaaaaaatc ttttattctt tttttatttc tatttgttaa aggtgtagaa
+     2341 gttgtttggc tctccatgat cgaaaaaaaa attttagatc attttaaaaa ttcaattctt
+     2401 ttttttgttt ttaatttctc acgctcaaga atttttatta atttttttag agcgttttta
+     2461 ttggagagtt tataaataaa agatttattt cgttgtaagg acattaaaga cgtagggttt
+     2521 tgtgtaaaaa gcgggaggag gggagcggga tctcaaagga tcccgggagc cccccccccg
+     2581 ctatattcta tggcgggggg ggggccgccc gtccttgcta tgtgtcctcc aaagtagctt
+     2641 ttaaaaatta aaagtgctat tttattgttg tgctcaatgg aaatattaaa ccccggatcc
+     2701 gatggatccc ttcaatttgg atttgtaaaa ggaggggtgc tattaggacg cgccccgccc
+     2761 cttctctttt tttcgaatcc tacggattcc tttggagccc ctcttttaaa tcgtttatga
+     2821 aatatttgaa aagaacaagt tgtttcaaaa aacccggata atcaagcatc gagattaaaa
+     2881 ttccccaaat cttttgcatt tgttagtagg ggtggggggc ctagttctaa tatttttatg
+     2941 gcgccccggg cgggggggaa ttctacgaat tcccccccgc ccccgtccct ttcaatcacc
+     3001 gaaggcgttt ttagagcccc cttttccatc atagaggaaa ccaggttcct taaatgtgta
+     3061 ttatttttaa catggtatct aactgatcct tttctatcga atgtaataga cccaaatcct
+     3121 aatttttttc ttagaagatg accagttgcg ccttcttttg ggcctaaaat taattcaaat
+     3181 tcgatgaggc gagaacccat
+//
+LOCUS       Placozoa_sp_H28_contig22        1205 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     CDS             complement(695..1028)
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=4
+                     /note="incomplete"
+                     /product="cytochrome c oxidase subunit 1"
+                     /translation="MTSFVRWFFSCNHKDIGSLYLVFGALSGAIGTAFSMLIRLELSS
+                     PGSMLGDDHLYNVIVTAHAFVMIFFLVMPTMIGGFGNWFVPLMIGAPDMAFPRLNNIS
+                     FWLLPPALFLLLGSSLVEQGAGTGWTVYPPLASIQAHSGGSVDMAIFSLHLAGLSSIL
+                     GAMNFITTVLNMRTPGMTMSRIPLFVWSVFITAILLLLSLPVLAGAITMLLTDRNFNT
+                     TFFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGIISQIXXXXXXXXXXXXXXXXXY
+                     AMLAIGILGFIVWAHHMYVVGMDVDTRAYFTAATMIIAVPTGIKIFSWLATISGSGRN
+                     LNFTTPMAWALGFIFLFTIGGLTGIVLSNSSLDILLHDTYYVVAHFHYVLSMGAVFAI
+                     FGGFYLWFGKITGYAYKDIYGLIHFWLMFFGVNITFFPQHFLGLAGLPRRYADYPDNF
+                     EDFNQISSFGSIISIIAVIWFVVVIFDAYYREEPFDINIFAKGPLTPFSCQPIHFDTL
+                     EWTLTTPPEHHTYNELPYIVGGPKSS"
+                     /label="COX1 CDS"
+     gene            complement(<1..>1205)
+                     /gene="COX1"
+                     /locus_tag="PLSPH28_P03"
+                     /note="trans-splicing"
+                     /label="COX1 gene"
+     CDS             complement(<1..450)
+                     /gene="LAGLIDADG endonuclease"
+                     /locus_tag="PLSPH28_P13"
+                     /product="LAGLIDADG endonuclease"
+                     /transl_table=4
+                     /note="incomplete"
+                     /translation="MLRDFTWKIYKMKKAKPEGAAYGASPPYENKGALLAPFFFANHL
+                     TQYYKQIGSPKIKAKSIGSGLYGLISFRGGANGAPPSFFSSWVVGLMEGAGVFKITGA
+                     KKGIWRERDPEGPRGMRPEGAPLPPILPAHLQIPNSYFFIQWLLFSSSXXXXXXXXXX
+                     XXXXXXXXXXXXXXXXXXXXXXMGSRLIEFELILGPKEGATGHLLRKKLGFGSITFDR
+                     KGSVRYHVKNNTHLRNLVSSMMEKGALKTPSVIERDGGGGEFVEFPPARGAIKILELG
+                     PPPLLTNAKDLGNFNLDAWLSGFFETTCSFQIFHKRFKRGAPKESVGFEKKRRGGARP
+                     NSTPPFTNPNWRDPSDPGFNISIEHNNKIALLIFKSYFGGHIARTGGPPPAIEYSGGG
+                     APGILWDPAPLLPLFTQNPTSLMSLQRNKSFIYKLSNKNALKKLIKILEREKLKTKKR
+                     IEFLKWSKIFFSIMESQTTSTPLTNRNKKRIKDFFLIKRDSL"
+                     /label="LAGLIDADG endonuclease CDS"
+     gene            complement(<1..450)
+                     /gene="LAGLIDADG endonuclease"
+                     /locus_tag="PLSPH28_P13"
+                     /label="LAGLIDADG endonuclease gene"
+ORIGIN      
+        1 ggaggaagaa aaaaggagtc attgaataaa aaaatagctg ttggggattt gtaggtgcgc
+       61 cggaagaatt ggggggaggg gcgccccttc ggggcgcatt ccccggggcc cttctgggtc
+      121 cctctcccgc catatgcctt ttttagctcc agttatttta aatacgcctg caccttccat
+      181 cagtcctacg actcatgatg aaaaaaaaga agggggggcg ccgttggcgc ccccccggaa
+      241 agagatgaga ccgtaaaggc cggatccaat ggattttgct ttaattttag gtgatccaat
+      301 ttgtttataa tattgagtaa gatggttggc aaaaaaaaaa ggagccaaaa gggccccttt
+      361 gttttcgtag ggcggggaag cgccataggc ggccccctcc ggtttagctt ttttcatttt
+      421 atagatcttc cacgtaaagt ctctgaggat ctcaaagggg cgccgtcggc gggggagatg
+      481 gagcccgtag ggctcgcccc cgcccctgcc cttttagatt tcctgcggat ttcccttttt
+      541 ctactaaaaa ttttagcaaa aaatatggaa ggcaagctga caactttttt tgcatattag
+      601 actatctttt ttagaccaaa tagggtaaag agttttcccg catatagtga aacgcttttt
+      661 tattttttaa tatataaagg ccatccaaaa tttgaccaaa aaatcaaaat aaatgttgat
+      721 ataaaatagg atcaccccct ccagcaggat caaaaaaggt tgtattaaaa tttctatctg
+      781 ttaataacat tgtgattgcc ccggctagta cgggtaatga tagtaataat aatattgctg
+      841 ttataaaaac ggatcacaca aatagaggta ttctactcat agtcatacct ggtgttctca
+      901 tattcaaaac tgtagttata aaattcatag ctcctaaaat tgaagacaac ccggctaaat
+      961 gtaaactaaa tatggccata tctactgatc ctccagaatg ggcttgtatt gaagctaaag
+     1021 gtggataaca ttaatgttgg gcaacgactg ttggacaaaa aaaaaccttt cattgggggt
+     1081 cctgcggacc ccgcgcccgt agggcgccca cgccaaccct ttttcgagtc ggatcggact
+     1141 attcctttat cttcgatttt gggggcgcca aaggcgcccc cgtcacgacc aggggcccgg
+     1201 gggac
+//
+LOCUS       Placozoa_sp_H28_contig23        1047 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     CDS             complement(406..791)
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=4
+                     /note="incomplete"
+                     /product="cytochrome c oxidase subunit 1"
+                     /translation="MTSFVRWFFSCNHKDIGSLYLVFGALSGAIGTAFSMLIRLELSS
+                     PGSMLGDDHLYNVIVTAHAFVMIFFLVMPTMIGGFGNWFVPLMIGAPDMAFPRLNNIS
+                     FWLLPPALFLLLGSSLVEQGAGTGWTVYPPLASIQAHSGGSVDMAIFSLHLAGLSSIL
+                     GAMNFITTVLNMRTPGMTMSRIPLFVWSVFITAILLLLSLPVLAGAITMLLTDRNFNT
+                     TFFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGIISQIXXXXXXXXXXXXXXXXXY
+                     AMLAIGILGFIVWAHHMYVVGMDVDTRAYFTAATMIIAVPTGIKIFSWLATISGSGRN
+                     LNFTTPMAWALGFIFLFTIGGLTGIVLSNSSLDILLHDTYYVVAHFHYVLSMGAVFAI
+                     FGGFYLWFGKITGYAYKDIYGLIHFWLMFFGVNITFFPQHFLGLAGLPRRYADYPDNF
+                     EDFNQISSFGSIISIIAVIWFVVVIFDAYYREEPFDINIFAKGPLTPFSCQPIHFDTL
+                     EWTLTTPPEHHTYNELPYIVGGPKSS"
+                     /label="COX1 CDS"
+     gene            complement(<1..791)
+                     /gene="COX1"
+                     /locus_tag="PLSPH28_P03"
+                     /note="trans-splicing"
+                     /label="COX1 gene"
+     tRNA            complement(851..921)
+                     /product="tRNA-Glu"
+                     /anticodon="(pos:complement(31398..31400),aa:Glu,seq:ttc)"
+                     /locus_tag="PLSPH28_T21"
+                     /label="tRNA-Glu"
+ORIGIN      
+        1 gggggggcga gcgccccgta gcgagcgccc ccccttcgaa tctaagccct tcgggctccc
+       61 ccgttttgcg tttttgttta ttaatactaa aagtgctagg gaatccgtag gattccgaaa
+      121 cgggggggga gagcgggcac cgtaggtgcc ccggtccccc tcggatacta ctcaattttt
+      181 ttaatcgaag atattctgca tttagtctct gaagggccca tagggccctg gcgagttgtc
+      241 cccctgtaaa aaggattttt gcatgtgatc aatggggggg aaaaggggga tccgtagaat
+      301 ccgcgggcac cataggtgcc cccccccagc atcttttttc attgaggatg ttctcgcatc
+      361 gagcaaaatt ttcaccgagc tattactaac tcgggcggcc ttttaaccgt ccacccagta
+      421 cccgcacctt gttctactaa agaagaacct aatagtaaaa acaaagcagg tggtagtagt
+      481 caaaaactta tattatttaa tcttggaaaa gccatatctg gggctcctat cattaaaggt
+      541 acaaatcaat ttccaaatcc tcctatcatt gtaggcataa ctaagaaaaa tatcattaca
+      601 aatgcatgtg ctgttactat tacattatat aaatgatcat ctcctaacat tgatcctggt
+      661 gaagataatt ctaatctaat caacatacta aaagcagtac ctatcgctcc ggataaggca
+      721 ccaaaaacta aatataatga acctatatct ttgtgattgc aactgaaaaa ccatctcaca
+      781 aatgaagtca tttttcttta tttaaagcgg gggcgggcga gcgcccccta cggagcgctc
+      841 gcgcccctcc ggcccctaag gagaattgaa ctcctaccag ctgaatgaaa atcaatcgtc
+      901 ctgccattag actatagggg cgggagagta taggaaaaaa agggaaaaat ataattaaac
+      961 ggggggggga gaggggttcc taaggatccc ctctcccgct aaagtactct tttggggcca
+     1021 aaaaagatga aaaaagtaaa agattcc
+//
+LOCUS       Placozoa_sp_H28_contig24         517 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     CDS             complement(51..>517)
+                     /codon_start=1
+                     /gene="COX2"
+                     /locus_tag="PLSPH28_P11"
+                     /product="cytochrome c oxidase subunit 2"
+                     /transl_table=4
+                     /note="incomplete"
+                     /translation="MKDFMKNVSCAFLPRGGAPLWGARPASLFNISVLTTANAGSIGA
+                     PKAPFWKEMIKDANEPWQLGFQDAGSPVMEEIIMLHDQILFILTIIVGVVLWLXXXXX
+                     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXFPSLRLLYIMDEGVFSANITIKVT
+                     GHQWYWSYSYEDYGEKNFEFDSYMVPTADLEFGDLRLLEVDNRLIIPVDTNVRVLITA
+                     ADVLHSWTVPSLAVKMDAVPGRINETGFLIKRPGIFYGQCSEICGANHSFMPIVVEAV
+                     SLSKYIDWIGREDV"
+                     /label="COX2 CDS"
+     gene            complement(51..>517)
+                     /gene="COX2"
+                     /locus_tag="PLSPH28_P11"
+                     /label="COX2 gene"
+ORIGIN      
+        1 aaggggggcc cccgggatcc gaaggaggga ccctaagggt cccttatgtc ctaaacatct
+       61 tccctcccta ttcaatctat atatttagat aatgacacag cttctactac tattggcata
+      121 aaactgtgat ttgctccaca aatttctgaa cattgaccat aaaaaattcc aggtctttta
+      181 attaaaaagc ctgtttcatt tattcttcca ggtactgcat ccatttttac agctaaagat
+      241 ggcactgttc atgaatgcaa tacatctgct gctgttatta aaactcttac atttgtatca
+      301 acaggaatga ttaatctatt gtctacttcc aataatctta aatccccaaa ttctaaatca
+      361 gctgttggaa ccatataact atcaaattca aaattttttt ctccataatc ttcatacgag
+      421 taagatcaat atcattgatg ccccgttact tttatggtta tatttgcaga aaacacacct
+      481 tcatccatta tatatagcaa ccttaaactt ggaaaag
+//
+LOCUS       Placozoa_sp_H28_contig25         780 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     CDS             738..>780
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=4
+                     /note="incomplete"
+                     /product="cytochrome c oxidase subunit 1"
+                     /translation="MTSFVRWFFSCNHKDIGSLYLVFGALSGAIGTAFSMLIRLELSS
+                     PGSMLGDDHLYNVIVTAHAFVMIFFLVMPTMIGGFGNWFVPLMIGAPDMAFPRLNNIS
+                     FWLLPPALFLLLGSSLVEQGAGTGWTVYPPLASIQAHSGGSVDMAIFSLHLAGLSSIL
+                     GAMNFITTVLNMRTPGMTMSRIPLFVWSVFITAILLLLSLPVLAGAITMLLTDRNFNT
+                     TFFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGIISQIXXXXXXXXXXXXXXXXXY
+                     AMLAIGILGFIVWAHHMYVVGMDVDTRAYFTAATMIIAVPTGIKIFSWLATISGSGRN
+                     LNFTTPMAWALGFIFLFTIGGLTGIVLSNSSLDILLHDTYYVVAHFHYVLSMGAVFAI
+                     FGGFYLWFGKITGYAYKDIYGLIHFWLMFFGVNITFFPQHFLGLAGLPRRYADYPDNF
+                     EDFNQISSFGSIISIIAVIWFVVVIFDAYYREEPFDINIFAKGPLTPFSCQPIHFDTL
+                     EWTLTTPPEHHTYNELPYIVGGPKSS"
+                     /label="COX1 CDS"
+     gene            738..>780
+                     /gene="COX1"
+                     /locus_tag="PLSPH28_P03"
+                     /note="trans-splicing"
+                     /label="COX1 gene"
+     CDS             complement(<1..292)
+                     /codon_start=1
+                     /gene="COX2"
+                     /locus_tag="PLSPH28_P11"
+                     /product="cytochrome c oxidase subunit 2"
+                     /transl_table=4
+                     /note="incomplete"
+                     /translation="MKDFMKNVSCAFLPRGGAPLWGARPASLFNISVLTTANAGSIGA
+                     PKAPFWKEMIKDANEPWQLGFQDAGSPVMEEIIMLHDQILFILTIIVGVVLWLXXXXX
+                     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXFPSLRLLYIMDEGVFSANITIKVT
+                     GHQWYWSYSYEDYGEKNFEFDSYMVPTADLEFGDLRLLEVDNRLIIPVDTNVRVLITA
+                     ADVLHSWTVPSLAVKMDAVPGRINETGFLIKRPGIFYGQCSEICGANHSFMPIVVEAV
+                     SLSKYIDWIGREDV"
+                     /label="COX2 CDS"
+     gene            complement(<1..292)
+                     /gene="COX2"
+                     /locus_tag="PLSPH28_P11"
+                     /label="COX2 gene"
+     tRNA            497..567
+                     /product="tRNA-Val"
+                     /anticodon="(pos:32727..32729,aa:Val,seq:tac)"
+                     /locus_tag="PLSPH28_T22"
+                     /label="tRNA-Val"
+ORIGIN      
+        1 ttaatcataa aacaacgcca acaataatag ttaaaataaa caaaatttga tcatgtaaca
+       61 ttattatttc ctccataact ggggaccctg catcttgaaa tcctaattgt caaggctcat
+      121 ttgcatcttt tatcatttct tttcaaaaag gcgcctttgg cgctcctatg gatcccgcgt
+      181 ttgcggtcgt caagacggaa atattaaaaa gagacgcggg gcgggcgccc caaaggggcg
+      241 cgccccccct cggtaaaaag gcacagctaa catttttcat aaagtctttc atttcttatc
+      301 ccggcgagcc gtgagggccc tttacaagat ccttggcccg aaaaataaaa ggatccgagg
+      361 gtgcccgaat tacatcccgc ccttcgggcg gctctaaggc gctcctatcc ctatgccttt
+      421 ggcgtgataa agaatagcga tcctacggat ccccttttta cccatagaat ctcccaatct
+      481 ctttttttcc tttttagcct atataattaa atggtataat atccgtttta caagcggagt
+      541 ttgatggttc aattccatct ataggtaaca ataagccgga ggggggaggg ggggagcccg
+      601 aagggctccc ccctcgcgcc cggccccccc cctcctttgg agttgaagaa aaagtccgag
+      661 ccaaagtgta aactttgcta ttgagggccg ggatcctttg gatcccccgt ttcgcgctca
+      721 aaatcattta caaaaggata tattttaata ttacctggtt ttggaataat atcccaaata
+//
+LOCUS       Placozoa_sp_H28_contig26         403 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     tRNA            232..303
+                     /product="tRNA-Ala"
+                     /anticodon="(pos:33449..33451,aa:Ala,seq:tgc)"
+                     /locus_tag="PLSPH28_T23"
+                     /label="tRNA-Ala"
+ORIGIN      
+        1 aaggtaaatc ggcaggaaat ctaaaagggc ggggcggggg cgagccctac gggctccatc
+       61 ccccccgccg acggcgcccc tttgagatcc tcagagactg tacgcgaaaa actcgggcgg
+      121 ggaggaatcc ttcggaggga atccgtagta ttccccccct tcgttccgag ctaaaaaaac
+      181 gaatataaaa aaggagggga ccccaagggt cccgctgtcc cccctctttt aggggtgtta
+      241 gttaaactgg tataaccata gttttgcaag ctattattat aggttcgagt cctgtacact
+      301 ccagaggggg gctaggggga gaagcgacat aggcggcccc tccccctagc ccctctctgg
+      361 agtgtacagg actcgaacct ataataatag cttgcaaaac tat
+//
+LOCUS       Placozoa_sp_H28_contig27         632 bp    DNA     linear   UNA 14-JUL-2023
+DEFINITION  XXX .
+ACCESSION   XXX
+VERSION     XXX
+DBLINK      Project: PRJEB44361
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            Eukaryota; Metazoa; Placozoa.
+FEATURES             Location/Qualifiers
+     tRNA            87..160
+                     /product="tRNA-Leu"
+                     /anticodon="(pos:33752..33754,aa:Leu,seq:tag)"
+                     /locus_tag="PLSPH28_T24"
+                     /label="tRNA-Leu"
+     CDS             208..579
+                     /codon_start=1
+                     /gene="NAD3"
+                     /locus_tag="PLSPH28_P12"
+                     /product="NADH dehydrogenase subunit 3"
+                     /transl_table=4
+                     /translation="MNPEFKTIFFCALLALCIILLLVSISFTLGNSRIGLTKPDSEKS
+                     SIYECGFDPFGKIRTPFTIKFVLVGILFMIFDIEISFLFPWSIVFNQLNLFSFWIVYT
+                     FLIVLAIGLAYEWIKGGLEWD"
+                     /label="NAD3 CDS"
+     gene            208..579
+                     /gene="NAD3"
+                     /locus_tag="PLSPH28_P12"
+                     /label="NAD3 gene"
+ORIGIN      
+        1 cgatctggcg ccgcggccga cccttttggg ttcgcctctg gggggaaccc tttgggttcc
+       61 tcctacggcg ccggatcccc ctttttgctg ttgtgatgca attggtagac atgatggatt
+      121 taggctctgt ctcttgtaag ttcaactctt accaacagcc gaaggggcgg gggaaccctt
+      181 tgggttcccc cgcccgcgcg atataagatg aatccagaat ttaaaacgat ttttttttgc
+      241 gcgctattgg cgctctgcat tattttactt ttagtttcta tatcattcac acttggtaat
+      301 tcaagaatag gacttacaaa accggattca gaaaagagtt caatatatga gtgtgggttt
+      361 gatccttttg gaaagataag aacacctttt acaataaaat ttgtattagt tggaatatta
+      421 tttatgatat tcgatataga aatatctttt ttatttcctt gaagtattgt atttaatcaa
+      481 cttaatcttt ttagtttttg aattgtatac acatttttga ttgttttagc cataggttta
+      541 gcctatgaat gaataaaagg tggtcttgag tgagattaag gggggcccag ggggggcgga
+      601 gcccttcggg ctccgccccc cctcgaaata ta
+//
